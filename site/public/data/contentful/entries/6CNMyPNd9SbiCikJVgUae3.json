@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6CNMyPNd9SbiCikJVgUae3",
+    "type": "Entry",
+    "createdAt": "2024-07-07T14:18:32.474Z",
+    "updatedAt": "2024-07-07T14:18:32.474Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 4,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Olivia Hingley: How do you build a low-carbon website? Web designer Victor Hwang shares his wisdom",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.itsnicethat.com/articles/victor-hwang-mater-project-graphic-design-071122"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Olivia Hingley: How do you build a low-carbon website? Web designer Victor Hwang shares his wisdom",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

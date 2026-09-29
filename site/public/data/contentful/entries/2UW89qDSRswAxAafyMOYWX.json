@@ -1,0 +1,513 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "concept"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2UW89qDSRswAxAafyMOYWX",
+    "type": "Entry",
+    "createdAt": "2023-02-09T17:17:52.232Z",
+    "updatedAt": "2023-03-26T11:49:36.542Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 115,
+    "revision": 18,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Post-Digital Age",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The term post-digital age refers to the state in which only the absence, but not the presence of technology is noticed. Computers are so integrated into everyday objects that they are not recognised as such. The digital revolution is considered complete, as digitality has become an important, if invisible, part of all areas of life.",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "glQgHCE965coDxdFKiyhh",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[1]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " The composer of electronic music Kim Cascone, as well as the researchers, artists and editors Alessandro Ludovico and Demian Conrad also use the term in their work. More recently, post-digital has also been used in the context of graphic design to refer to creative practices based on the increasing use of programming, software and algorithms.",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6gTIVxCdxgJzzJvvqTmhZz",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[2]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Background",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The term was largely coined by Nicholas Negroponte, one of the founders of the well-known MIT Media Lab in Cambridge, where also the designer and programmer John Maeda worked. In 1998 Negroponte wrote for Wired Magazine an article called ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.wired.com/1998/12/negroponte-55/"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Beyond Digital",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", in which he predicted the future use of computers.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "blockquote",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "»The decades ahead will be a period of comprehending biotech, mastering nature, and realizing extraterrestrial travel, with DNA computers, microrobots, and nanotechnologies the main characters on the technological stage. Computers as we know them today will a) be boring, and b) disappear into things that are first and foremost something else: smart nails, self-cleaning shirts, driverless cars, therapeutic Barbie dolls, intelligent doorknobs that let the Federal Express man in and Fido out, but not 10 other dogs back in. Computers will be a sweeping yet invisible part of our everyday lives: We'll live in them, wear them, even eat them. A computer a day will keep the doctor away.« ",
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "data": {}
+                },
+                {
+                  "nodeType": "entry-hyperlink",
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "glQgHCE965coDxdFKiyhh",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "[1]",
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "\n\n\n",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Texts on this topic ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "/ ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "using this term",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://api.head-publishing.ch/uploads/GRAPHIC_DESIGN_IN_THE_POST_DIGITAL_AGE_d299efb5a0_d84e2e2e0a.pdf"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Demian Conrad: Graphic Design in the Post-Digital Age",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.onomatopee.net/exhibition/post-digital-print/#publication_6758"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Allessandro Ludovico: Post-Digital Print",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://networkcultures.org/goinghybrid/2022/10/12/reframe-the-network-parallel-narratives-and-media-obsolescence-as-post-digital-publishing-practice/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Labor Neunzehn: Reframe the Network. Parallel Narratives and Media Obsolescence as Post-digital Publishing Practice",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://networkcultures.org/blog/2020/03/09/out-now-tod34-the-age-of-total-images-disappearance-of-a-subjective-viewpoint-in-post-digital-photography/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "ToD#34: The Age of Total Images. Disappearance of a Subjective Viewpoint in Post-digital Photography",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Projects",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "http://p-dpa.net/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Post-Digital Publishing Archive",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

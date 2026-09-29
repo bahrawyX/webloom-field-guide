@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "1FS829ZV2HF6BPeuosJx7j",
+    "type": "Entry",
+    "createdAt": "2023-04-10T15:30:16.353Z",
+    "updatedAt": "2023-04-10T15:30:16.353Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 6,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "N. Katherine Hayles: Educate Well, Read Better",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://networkcultures.org/blog/publication/i-read-where-i-am-exploring-new-information-cultures/"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "N. Katherine Hayles: Educate Well, Read Better",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

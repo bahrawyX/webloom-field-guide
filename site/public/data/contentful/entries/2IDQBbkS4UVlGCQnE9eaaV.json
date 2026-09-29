@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2IDQBbkS4UVlGCQnE9eaaV",
+    "type": "Entry",
+    "createdAt": "2024-07-07T14:45:44.614Z",
+    "updatedAt": "2024-07-07T14:45:44.614Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 4,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Patrick Murphy: The Rise of Sustainable Design in Architecture",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.maket.ai/post/the-rise-of-sustainable-design-in-architecture#:~:text=It%20wasn't%20until%20the,materials%2C%20and%20holistic%20design%20approaches."
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Patrick Murphy: The Rise of Sustainable Design in Architecture",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

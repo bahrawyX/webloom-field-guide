@@ -1,0 +1,1379 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "concept"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "4TzAZFehkMPRfclxZU7jhz",
+    "type": "Entry",
+    "createdAt": "2023-02-18T22:12:29.404Z",
+    "updatedAt": "2024-07-06T15:00:30.641Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 408,
+    "revision": 23,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Accessibility",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. Which means that everybody should be able to perceive, understand, navigate, and interact with the web, but can also contribute to it.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Web accessibility encompasses all disabilities that affect access to the Web, including auditory, cognitive, neurological, physical, speech and visual disabilities. But not only disabled people benefit from an accessible web, it is also important for people ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "without",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " disabilities in a lot of scenarios:",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "ordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "older people with changing abilities due to ageing",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "people with ",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "»temporary disabilities«",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": " such as a broken arm or lost glasses",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "people with ",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "»situational limitations«",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": " such as in bright sunlight or in an environment where they can not listen to audio",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "people using a slow Internet connection, or who have limited or expensive bandwidth",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. That's why you should always pay attention to accessibility when designing and coding a website. You should also keep in mind that ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "accessibility is required by law in many situations.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "If you evaluate accessibility early and throughout the development process to identify accessibility problems, it is easier to address them. Simple steps, such as changing settings in the browser, can help you evaluate some aspects of accessibility. On the right you can find some tools that might help you. But keep in mind, that comprehensive evaluation to determine if a website meets all accessibility guidelines takes more effort and human evaluation.",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "nysZR1RuGT3Pn4IFuUiCf",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[1]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Background",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The terms ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "»Design for Accessibility«",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": ", ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "»Inclusive Design«",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": ", ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "»Design for all«",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " and ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "»Transgenerational Design«",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " were coined by architect Ronald L. Mace in 1985. They refer to a certain approach, an attitude towards design, which has led to the idea that designed objects, systems, environments and services should be accessible to and experienced by the greatest possible number of people.",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "5AqN9LxV5CoFPcgoewHL14",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[2]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "On the twentieth anniversary of the World Wide Web, Tim Berners‐Lee wrote an article for Scientific American in which he reiterated the underlying principles of the web: ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "blockquote",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "»The primary design principle underlying the Web’s usefulness and growth is universality. The Web should be usable by people with disabilities. It must work with any form of information, be it a document or a point of data, and information of any quality—from a silly tweet to a scholarly paper. And it should be accessible from any kind of hardware that can connect to the Internet: stationary or mobile, small screen or large.« ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "entry-hyperlink",
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "2RUyiXeBDUSEY6Z3EJcWYt",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "[3]",
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Usage",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A common refrain, which comes up often when talking about web accessibility, is ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "»Semantic HTML«. ",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "But what does that mean and why does it matter? Semantics lay out the rules for how HTML (the code) gets interpreted by the browser. Those rules govern structure and meaning. Creating semantic code means picking the right element for the job, giving your page not only structure, but making it also easier to read for people using a screenreader. HTML elements like headings, ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "70YjtGRCs4BUACjaqQzlDY",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "hyperlinks",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " or ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "FLAhUrwyFee8ZwKeQU40J",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "buttons",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " give structure to the website, when used in the right context. Which element fits depends on the implicit role, which is also known as the ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "ARIA role",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", that every element has.",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "4Cn7ONjFTKwbdUV73BDYL2",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[4]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Writing semantic HTML is not the only thing to pay attention to when coding an accessible website. There are various things, that make a difference. Here are some examples:",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Images should have meaningful and contextual alternative text (alt-tag) which describes the image. Alternative texts are read by screen readers in place of images, displayed in place of images if the image is not loaded and provide semantic meaning to images. Setting this attribute to an empty string (alt=\"\") indicates that this image is ",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "not",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": " a key part of the content (it's decoration or a tracking pixel), and that non-visual browsers may omit it from rendering.",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "Check the text and background color to ensure an optimal contrast ratio so that it can be read by people with moderately low vision. Text should have a contrast ratio of at least 4.5:1 with the background. You can use various online contrast checker tools for this",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "The HTML lang attribute (<html lang=\"en\">) is used to identify the language of text content on the web. This information helps screen readers switch language profiles to provide a better user experience.",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "These examples are part of this ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.webaccessibilitychecklist.com/"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Web Accessibility Checklist",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". Check it out to see what else you can do to improve the accessibility of your website. Or have a look at the ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.w3.org/TR/WCAG22/"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Web Content Accessibility Guidelines",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " from W3C, which are the foundation of the ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.barrierefreiheit-dienstekonsolidierung.bund.de/Webs/PB/DE/service/lexikon/functions/bmi-lexikon.html;jsessionid=4EB12AB78EBE6632E185A1E815FC6ACD.live862?cms_lv2=18267330&cms_lv3=18581548#doc18581548"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "European Accessibility Act",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " (EAA). ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Content on this topic",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.w3.org/WAI/fundamentals/accessibility-intro/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Web Accessibility Initiative",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://web.dev/learn/accessibility/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Learn Accessibility",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.a11yproject.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "A11y Project",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.are.na/block/13847079"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Cybele Grandjean: A",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "ccessible Design ",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.w3.org/WAI/courses/foundations-course/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Web Accessibility Online Course",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Tools",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.webaccessibilitychecklist.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Web Accessibility Checklist",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://developer.chrome.com/docs/devtools/accessibility/reference?hl=en"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Accessibility Testing with the Developer Tools",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://wave.webaim.org/extension/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "WAVE Evaluation Tool",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://webaim.org/resources/contrastchecker/?fcolor=94A3B8&bcolor=004898"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Contrast Checker",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.figma.com/de/blog/design-for-everyone-with-these-accessibility-focused-plugins/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Accessibilty Plugins for Figma",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Interesting Projects",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "http://zugangsformen.de/#Start"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Zugangsformen",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Related terms in this glossary",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "2ABYnMzPbdcoVRHCQpEav8",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Responsivness",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "3kpgl4hPVcbTfdNGnwPfUJ",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Developer Tools",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

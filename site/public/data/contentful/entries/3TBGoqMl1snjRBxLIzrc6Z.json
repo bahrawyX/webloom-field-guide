@@ -1,0 +1,498 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "coding"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "css"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "3TBGoqMl1snjRBxLIzrc6Z",
+    "type": "Entry",
+    "createdAt": "2023-03-23T17:02:34.346Z",
+    "updatedAt": "2023-03-26T09:34:18.220Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 78,
+    "revision": 10,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "CSS",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Cascading Style Sheets or short CSS is a style-sheet language used for describing the presentation of a document written in a markup language such as ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "5E1SmovXET5h0cV1E0tOzT",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "HTML",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. The term cascading derives from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable.",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6gTIVxCdxgJzzJvvqTmhZz",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "value": "[1]",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Background",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "In the first years after its development, the ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "5E1SmovXET5h0cV1E0tOzT",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "HTML",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " vocabulary grew constantly. More and more visually distinguishing elements were added, such as big, small, centre or font. Although HTML is technically a language that distinguishes elements based on their content and not their presentation, it was more and more used as a visual design tool. Håkon Wium Lie, who was doing research at CERN at the same time as Tim Berners-Lee, therefore proposed a new format to describe the visual representation of an HTML document. This language, which he developed shortly afterwards together with the developer Bert Bos, he called Cascading Style Sheets.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Syntax",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Properties are defined within selectors by defining a property and a value. They are separated with a colon and delineated with a semi-colon. ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "Each CSS rule can have as many properties as you like. Each of them applies to the elements that the selector applies to.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Selectors are used in CSS to select the parts of the HTML that are being styled. You can use several different methods for selecting an element. You can for example select HTML elements by their class name. Class names are written with a dot in front of their name in CSS. But there are of course a lot more ways to select elements, such as by id, with child, attribute or pseudo-class selectors.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeField": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "value": "css\nh1 {\n  font-size: 24px;\n  font-weight: bold;\n  border: 1px solid black;\n  color: pink;\n}\n\n.link {\n  font-size: 12px;\n}",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Tutorials",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://codyhouse.co/nuggets/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "One Minute CSS Tutorials",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.youtube.com/watch?v=BUZIaTHm_oE"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Laurel Schwulst: Basics of CSS",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Further technical information",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "mdn web docs",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "http://www.htmldog.com/reference/cssproperties/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "html dog",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.codecademy.com/article/glossary-css"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "codecademy",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

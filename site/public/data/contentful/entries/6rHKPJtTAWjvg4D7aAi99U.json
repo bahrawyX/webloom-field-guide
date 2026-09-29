@@ -1,0 +1,1237 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "coding"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "css"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "typography"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6rHKPJtTAWjvg4D7aAi99U",
+    "type": "Entry",
+    "createdAt": "2023-03-01T20:26:03.532Z",
+    "updatedAt": "2023-08-12T14:01:17.219Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 242,
+    "revision": 20,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Font",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "The @font-face property enables you to embed your own fonts into your website, without being limited to the so-called \"web-safe\" fonts (the fonts which are so common that they're considered to be universally available, e.g. Arial or Times New Roman). ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "You can embed fonts by storing them inside your website folder. We recommend creating a separate folder especially for these font files. Your font file can then be loaded into ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "3TBGoqMl1snjRBxLIzrc6Z",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "CSS",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " via ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "font: url",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " within the @font-face property. You can also import fonts without embedding the font file, like ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "uri": "https://fonts.google.com/"
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Google Fonts",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ".",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "If you notice, that your embedded font is displayed slightly heavier in weight than the font style actually is, try adjusting ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "2uqMgKXjERU9cs9qR8E0Tp",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "font-smoothing",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ".",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Possibilities",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "You can not only embed static fonts, but also ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "1dmTPt3ONqIzoLPuoDUMuT",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "variable fonts",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". Variable fonts are very useful because only one font file has to be loaded, not several font files for different cuts as is the case with static fonts. ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Saw a website using a cool font and wann now which font this was? No problem, try inspecting the website with the ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "3kpgl4hPVcbTfdNGnwPfUJ",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "developer tools",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " and you will probably find out.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeField": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "css\n@font-face {\n  font-family: \"ABC Favorit\";\n  src: url(\"/fonts/ABCFavorit-Regular.woff2\") format(\"woff2\"),\n       url(\"/fonts/ABCFavorit-Regular.woff\") format(\"woff\");\n}",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Supported formats",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "The following font formats are supported: TrueType (ttf), OpenType (otf), Web Open Font Format (woff) and Web Open Font Format 2 (woff2)",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Further technical informations",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face?retiredLocale=de"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "mdn web docs",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Fonts",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "You are looking for cool fonts to embed in your website? Maybe take a look at these type-foundries, designers and collections (in no particular order):",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://abcdinamo.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Dinamo",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.schick-toikka.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Schick Toikka",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.grillitype.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Grilli Type",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://charlotterohde.de/typefaces/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Charlotte Rhode",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://wisetype.nl/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "WiseType",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://displaay.net/typefaces/retail/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Displaay",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.new-letters.de/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "New Letters",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://pangrampangram.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Pangram Pangram",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://boulevardlab.com/Home"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "BoulevardLAB™",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://margotleveque.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Margot Lévêque",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.futurefonts.xyz/fonts"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Future Fonts",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://bold-decisions.biz/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Bold Decisions",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://fonts.floriankarsten.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Florian Karsten",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://typelab.fr/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Typelab",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://open-foundry.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Open Foundry",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "New Aesthetic 3"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "New Aesthetic 3",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://goodtypefoundry.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Good Type Foundry",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Related terms in this glossary",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "1dmTPt3ONqIzoLPuoDUMuT",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Variable Font ",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "2uqMgKXjERU9cs9qR8E0Tp",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Font Smoothing",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "34zBWBy5HyBNj7sYQbx1TN",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Underlined Text",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

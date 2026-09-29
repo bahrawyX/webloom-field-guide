@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "concept"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "4IfiJSNdpxkRvG3b4pTIuP",
+    "type": "Entry",
+    "createdAt": "2023-03-01T21:10:21.303Z",
+    "updatedAt": "2024-07-21T14:22:37.541Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 163,
+    "revision": 18,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Mobile First",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "Mobile First",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ", as the name suggests, means that a website or app is first designed for mobile devices which has more restrictions, then expand its features to create a tablet or desktop version. This is not only useful, because mobile displays have more restrictions (because of their size), but also because today websites are displayed more on smartphone than desktop. Early in 2012, smartphone sales have overtaken PC sales, and in 2016 mobile internet usage has surpassed desktop usage in 2016.",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "70OjTaWkbJpbD8QsbmxzFb",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "value": "[1]",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "But ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "mobile first ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "is not only about layouting for different display sizes, it also has consequences for the content of a website. Stephanie and Bryan Rieger encapsulated the ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "Mobile First",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " responsive design approach: ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "»The lack of a media query is your first media query.«",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "blockquote"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "In this context, ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "Mobile First",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " is less about mobile devices per se, but instead focuses on prioritising content and tasks regardless of the device. If you can prioritise your content and make it work within the confined space of a small screen, then you will have created a robust, resilient design that you can build upon for larger screen sizes.",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "2RUyiXeBDUSEY6Z3EJcWYt",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "value": "[2]",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " To make your website ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "2ABYnMzPbdcoVRHCQpEav8",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "responsive",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " of your design, you can use for example ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6Nc9jvBRCAEoyS4EDF9O6E",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "media queries",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ".",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Background",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Luke Wroblewski coined the term ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "Mobile First",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " in response to the ascendency of mobile devices in 2010. ",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "»Losing 80% of your screen space forces you to focus. You need to make sure that what stays on the screen is the most important set of features for your customers and your business. There simply isn’t room for any interface debris or content of questionable value. You need to know what matters most.« ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "2HoqCMV6m0tcuKc1HFTcIB",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "value": "[3]",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "entry-hyperlink"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "blockquote"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Texts on this topic",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.lukew.com/ff/entry.asp?1117"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Luke Wroblewski: Mobile First Helps with Big Issues",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Vincent Xia: What is Mobile First Design? Why It’s Important & How To Make It?",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Related terms in this glossary",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "2ABYnMzPbdcoVRHCQpEav8",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Responsivness",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "6Nc9jvBRCAEoyS4EDF9O6E",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Media Queries",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

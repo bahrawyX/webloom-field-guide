@@ -1,0 +1,1110 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "interaction"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "tool"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6JvYGsB3Z0POfT9EnP867B",
+    "type": "Entry",
+    "createdAt": "2023-02-18T21:37:17.039Z",
+    "updatedAt": "2023-03-23T17:53:14.602Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 130,
+    "revision": 10,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Framework",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "A framework refers to a programming framework, which are used in software technology and espacially webdevelopment. In a more general sense, a framework is also used to describe an organisational framework. A framework is not a finished programme itself, but provides the frame in which a programmer creates an application, whereby the structure of the individual application is influenced by the development patterns used in the framework. A framework is a library that offers opinions about how software gets built. These opinions allow for predictability and homogeneity in an application. Predictability allows the software to scale to an enormous size and still be maintainable, which is quite useful when many developers are writing a software or website together. ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6lD0NRqIKlsz3HtTqYS2KO",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[1]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "There are a lot of different frameworks today, that try to make coding complex applications simpler. Even tho most websites these days are built with frameworks,  you don't need to use a framework when building a website. Especially if you are just learning to code or are only building a simple site, using a framework may only complicate your work instead of simplifying it. This website was built using the javascript framework svelte.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Background",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "When JavaScript debuted in 1996, it added occasional interactivity and excitement to a web that was, up until then, composed of static documents. The web became not just a place to ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "read things",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": ", but to ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "do things",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": ". JavaScript's popularity steadily increased. Developers who worked with JavaScript wrote tools to solve the problems they faced, and packaged them into reusable packages called libraries, so they could share their solutions with others. This shared ecosystem of libraries helped shape the growth of the web. ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6lD0NRqIKlsz3HtTqYS2KO",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[1]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Javascript Frameworks",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://react.dev/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "react",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://vuejs.org/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "vue",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://svelte.dev/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "svelte",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://angular.io/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "angular",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://pugjs.org/api/getting-started.html"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "pug",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "3D Frameworks",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://threejs.org/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "three.js",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Animation Frameworks",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://lottiefiles.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Lottie",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://greensock.com/gsap/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "gsap",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://animejs.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "anime",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Creative Coding Frameworks",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://processing.org/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "processing",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://p5js.org/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "p5.js",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://nannou.cc/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "nannou",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://openframeworks.cc/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "open frameworks",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://libcinder.org/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "cinder",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://cables.gl/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "cables",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://derivative.ca/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "touchdesigner",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://thegraybook.vvvv.org/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "vvvv",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Further technical information",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "mdn web docs",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Related terms in this glossary",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "1a5QRShaM3BTIUyY1rsLkP",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Generic Template Design",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "4iytqKejnODgBvnTYyfKCE",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Creative Coding",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

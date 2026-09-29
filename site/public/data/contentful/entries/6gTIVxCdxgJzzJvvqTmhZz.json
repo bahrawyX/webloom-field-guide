@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6gTIVxCdxgJzzJvvqTmhZz",
+    "type": "Entry",
+    "createdAt": "2023-02-10T09:14:24.730Z",
+    "updatedAt": "2023-02-10T14:50:30.855Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 14,
+    "revision": 3,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Demian Conrad: Graphic Design in the Post- Digital Age",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://api.head-publishing.ch/uploads/GRAPHIC_DESIGN_IN_THE_POST_DIGITAL_AGE_d299efb5a0_d84e2e2e0a.pdf"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Demian Conrad: Graphic Design in the Post-Digital Age, p.10 f.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

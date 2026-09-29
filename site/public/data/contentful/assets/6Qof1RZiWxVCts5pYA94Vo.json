@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6Qof1RZiWxVCts5pYA94Vo",
+    "type": "Asset",
+    "createdAt": "2023-03-24T12:37:40.421Z",
+    "updatedAt": "2023-03-24T12:50:48.299Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 8,
+    "revision": 2,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "html1",
+    "description": "html description",
+    "file": {
+      "url": "/media/html1-28b9f146aec1.svg",
+      "details": {
+        "size": 23630,
+        "image": {
+          "width": 235,
+          "height": 67
+        }
+      },
+      "fileName": "html1.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

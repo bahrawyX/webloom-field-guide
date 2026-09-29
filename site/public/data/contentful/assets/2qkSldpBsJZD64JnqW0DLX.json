@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2qkSldpBsJZD64JnqW0DLX",
+    "type": "Asset",
+    "createdAt": "2023-03-20T10:46:39.819Z",
+    "updatedAt": "2023-03-23T11:01:13.884Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 11,
+    "revision": 2,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "rhizome",
+    "description": "rhizome",
+    "file": {
+      "url": "/media/rhizome-4f62827f263b.svg",
+      "details": {
+        "size": 6700,
+        "image": {
+          "width": 382,
+          "height": 294
+        }
+      },
+      "fileName": "rhizome.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

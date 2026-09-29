@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "3pKvOdkEGGgxE7FgC80Z7c",
+    "type": "Entry",
+    "createdAt": "2023-03-08T10:31:44.950Z",
+    "updatedAt": "2023-03-23T16:57:35.555Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 10,
+    "revision": 3,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Gilles Deleuze and  Felix Guattari: A Thousand Plateuas. Capitalism and Schizophrenia, Minneapolis 1987, p.25",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Gilles Deleuze and  Felix Guattari: A Thousand Plateuas. Capitalism and Schizophrenia, Minneapolis 1987, p.25",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

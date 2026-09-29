@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "1A1gaqO3FfFH5cvRN1D9UX",
+    "type": "Entry",
+    "createdAt": "2023-02-09T17:40:09.935Z",
+    "updatedAt": "2023-02-18T15:34:03.194Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 15,
+    "revision": 6,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Fabian Thomas: Wovon wir reden, wenn wir von digitaler Literatur reden",
+    "ref": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "uri": "https://www.boersenblatt.net/bookbytes/archiv/1475770.html"
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Fabian Thomas: Wovon wir reden, wenn wir von digitaler Literatur reden",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.rebrand/
+.vercel/
+qa/node_modules/
+site/node_modules/
+qa/shots/
+qa/webloom-shots/
+qa/*results.json
+qa/*.jsonl

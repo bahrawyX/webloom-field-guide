@@ -1,0 +1,833 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "coding"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "css"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "67Iur5SgEh006E60CLk3w4",
+    "type": "Entry",
+    "createdAt": "2023-03-01T16:53:19.645Z",
+    "updatedAt": "2023-03-26T19:20:06.345Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 183,
+    "revision": 32,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Flexbox",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Flexbox",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " is used to create variable and responsive layouts in CSS. This model acts on two axes on which content can be arranged. Another similar concept is ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "4WSOOanCzUHy0akMtqzc5k",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "grid",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", which can be also styled in ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "3TBGoqMl1snjRBxLIzrc6Z",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "CSS",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "Flexbox ",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "can be understood similarly to the columns in Adobe InDesign. The width and height of these columns are also aligned with the format of the document. In contrast to InDesign, there are several options for aligning and arranging elements in columns and rows with ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "flexbox",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": ". This way it's quite easy to make ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "2ABYnMzPbdcoVRHCQpEav8",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "responsive",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " layouts with ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "flexbox",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " and ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6Nc9jvBRCAEoyS4EDF9O6E",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "media queries",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ". The most ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "flexbox",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " properties are set on the container element and describe how the items inside this container will be aligned.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "35NWzt0WvOtmoeSXlKQRN",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Visualisation",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Here comes a short visualisation of the most important ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "flexbox",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " properties: ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-5",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "flex-direction",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Setting the main axis, as well as the direction in which the flex items are placed in the flex container, is done with this property.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "4SJq15C3oiN6jGONQcCBKi",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "heading-5",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "flex-wrap",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "By default, the flex items try to fit all in one row. This can be changed by wrapping items. ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "6IxUueNapSJuNIyO9aNzhM",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "heading-5",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "justify-content",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "This property defines how the browser distributes space between and around content items along the main axis of a flex container and the inline axis of a grid container.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "5yeCs5L3VGfqDFaoc6zYUD",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "heading-5",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "align-items",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "This property sets the value for all direct child elements as a group. It controls the alignment of elements on the cross axis. In grid layout, it controls the alignment of elements on the block axis within their grid area.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "4mPXklp9cSJf85Xp6cp6RD",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "heading-5",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "align-content",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The rows of a flex container can be oriented differently if additional space is available in the cross-axis.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "FdTHKQjxk7vFBI9Noqbpq",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "heading-5",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "gap, row-gap, column-gap",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The property sets the spacing between rows and columns.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "embedded-asset-block",
+          "data": {
+            "target": {
+              "sys": {
+                "id": "2WGKTmG4E9x9vgAES8DxsK",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": []
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeField": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "value": "css\n.container {\n  display: flex;\n  flex-direction: column;\n  flex-wrap: wrap;\n  justify-content: center;\n  align-content: center;\n  align-items: center;\n  gap: 10px;\n}",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Further technical information",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "CSS Tricks",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "mdn web docs",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Related terms in this glossary",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "2ABYnMzPbdcoVRHCQpEav8",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Responsivness",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "6Nc9jvBRCAEoyS4EDF9O6E",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Media Queries",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "4WSOOanCzUHy0akMtqzc5k",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Grid",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

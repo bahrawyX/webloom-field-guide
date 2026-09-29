@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "5gwVwMdx30EtSP0UclRKO8",
+    "type": "Entry",
+    "createdAt": "2023-06-25T15:02:12.378Z",
+    "updatedAt": "2023-06-25T15:02:12.378Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 4,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "mdn web docs: paragraph",
+    "ref": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "uri": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p?retiredLocale=de"
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "mdn web docs",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

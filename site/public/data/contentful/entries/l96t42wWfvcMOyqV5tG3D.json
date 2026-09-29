@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "coding"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "css"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "interaction"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "l96t42wWfvcMOyqV5tG3D",
+    "type": "Entry",
+    "createdAt": "2023-03-01T20:40:41.158Z",
+    "updatedAt": "2023-03-26T10:59:21.496Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 166,
+    "revision": 14,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Cursor",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": "cursor",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "text",
+              "value": " property sets the mouse cursor, which shows when the mouse pointer / ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "5Kqa2ZyANgkNAtfUxAU1KP",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "hover",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " is over an element. This is used to give users information of how to interact with an element. A pointer for example indicates a click interaction, while a progress cursor indicates to wait, while the browser is processing an action.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "You can not only use one of the many default browser cursors, that are listed below, but you can also use your own personal cursors. These can be in cursor specific .cur format or png or svg images. When using your own images, make sure to set a fallback keyword, provide different resolutions and set coordinates.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeField": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "value": "css\nbutton{\n/* Basic cursors */\ncursor: auto;\ncursor: pointer;\n/* Custom cursor */\ncursor: url('../assets/pfeil_cursor.svg') 25 25, pointer;\ncursor: -webkit-image-set( url('../assets/pfeil_cursor@3x.png') 3x)\n  25 25, pointer;\n}",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Format",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "On Firefox and Chrome cursor images are restricted to 128x128 pixels by default, but it is recommended to limit the cursor image size to 32x32 pixels. Cursor images that are larger than 128x128 pixels will generally just be ignored, so make sure, to use images with a size smaller than this or provide smaller fallback images.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "If your cursor image seems blurry, make sure to provide a @3x image for better resolution on displays with higher pixel density. If this is new to you, maybe check out this ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "uri": "https://www.appypie.com/image-scaling-ios-how-to"
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "article",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " on how image scaling works.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Tools",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "http://cursorfont.liebermannkiepereddemann.de/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Cursor font by Liebermann Kiepe Reddemann",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://convertio.co/de/png-cur/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Png to cur Converter",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Further technical information",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "mdn web docs",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "specialElement": "cursor"
+  }
+}

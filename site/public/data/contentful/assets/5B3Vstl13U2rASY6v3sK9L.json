@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "5B3Vstl13U2rASY6v3sK9L",
+    "type": "Asset",
+    "createdAt": "2023-03-23T11:03:03.511Z",
+    "updatedAt": "2023-03-23T11:03:03.511Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 4,
+    "revision": 1,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Padding",
+    "description": "Padding",
+    "file": {
+      "url": "/media/padding-82f3b63dfceb.svg",
+      "details": {
+        "size": 15403,
+        "image": {
+          "width": 235,
+          "height": 83
+        }
+      },
+      "fileName": "padding.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

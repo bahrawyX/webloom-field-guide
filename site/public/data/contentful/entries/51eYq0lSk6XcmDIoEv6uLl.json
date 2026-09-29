@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "concept"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "51eYq0lSk6XcmDIoEv6uLl",
+    "type": "Entry",
+    "createdAt": "2023-02-28T15:40:30.525Z",
+    "updatedAt": "2023-06-25T13:57:34.474Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 60,
+    "revision": 15,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Artificial Flatness",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "The Artificial Flatness as a cultural technique is a theoretical concept by media theoretician Sybille Krämer. The study focuses on the visualization of thoughts, through which new cognition is created. ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "blockquote",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "»Not only recent non-cognitivist theories of mind, but also a remarkable philosophical tradition assumes that thinking and cognition become possible in the first place because »things of thought« and »things of thought« are objectified in our external world, where they are sensually and operatively accessible.« ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "entry-hyperlink",
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "2xIC4FRD9GrZqI5uMRBTnK",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "[1]",
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "This refers, for example, to geographical maps or book pages, which are fundamentally based on text and image, but also to calculating by hand, beads, or by using calculating stones. The Artificial Flatness influences the way in which actions are conducted, such as finding one's way around by means of maps or solving arithmetic problems. But the surface also opens up a space for creativity. With this cultural technique, Krämer defines a special space »that can be surveyed, controlled, and manipulated in a bird's-eye view. In the two-dimensionality of the graphic, everything can be recorded: That which is, that which is not yet, and that which can never be (impossible objects).«",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "6m5ehhGMUZ7PpHpBiY6JQn",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "[2]",
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": " This clearly illustrates the context of the design profession's creative process. ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Sybille Krämer's concept can also be projected onto digital screens of various display devices. However, this raises the question of multidimensionality. Does the three-dimensional, technical object on a flat display imitate an infinite, three-dimensional space? Since the development of computers, we have been talking about ",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "entry-hyperlink",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "1DDBuJHPyDiiT0BOAEo8V6",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "interface design",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": ", or surface design. Does flatness create a separate place, a behind / underneath, which is not given in the three-dimensional surrounding space?",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "An excursion into media theory is fundamental for gaining insight into the question of how analog and digital media are related to each other. The theoretical understanding of media is essential for practical work with them.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Content on this topic",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.youtube.com/watch?v=g2w_pyu4wgg"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "re:publica 2019 – Sybille Krämer: Digitalität und die Kulturtechnik der Verflachung",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.bpb.de/shop/zeitschriften/apuz/digitale-gesellschaft-2022/505679/kulturgeschichte-der-digitalisierung/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "value": "Kulturgeschichte der Digitalisierung",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Related terms in this glossary",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "7wUlGYvEjCDA8djn7fUJre",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Spatial Interface",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "1DDBuJHPyDiiT0BOAEo8V6",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Graphical User Interface",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "1czgEmXIFPQcWVFg8VRZQN",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Page Metaphor",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

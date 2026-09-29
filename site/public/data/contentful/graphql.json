@@ -1,0 +1,1056 @@
+{
+  "data": {
+    "glossaryEntryCollection": {
+      "items": [
+        {
+          "sys": {
+            "id": "2wStpidNyEkOyt4wrzMVrq"
+          },
+          "title": "SVG ",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6pBkrR7XPg4UIb5ckyP3RC"
+          },
+          "title": "Animation",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              },
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "61aVmYIGxb3YW3gRUMKoVs"
+          },
+          "title": "Keyframe Animation",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4gqfemZgK1G1ekGf3NNooi"
+          },
+          "title": "Sustainability",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3vndKS2n0biT7wDAER1DT6"
+          },
+          "title": "Design Theory",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7McGTMSr6hT1ft7w2105N3"
+          },
+          "title": "Neomorphism",
+          "metadata": {
+            "tags": [
+              {
+                "id": "trend",
+                "name": "trend"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4IfiJSNdpxkRvG3b4pTIuP"
+          },
+          "title": "Mobile First",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2ZTXtv3YeWVkbsEYoZWnez"
+          },
+          "title": "Flat Design",
+          "metadata": {
+            "tags": [
+              {
+                "id": "trend",
+                "name": "trend"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2Ib0yeXE5iLTu4gX6TDg0e"
+          },
+          "title": "Skeuomorphism",
+          "metadata": {
+            "tags": [
+              {
+                "id": "trend",
+                "name": "trend"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5Bkgv1nIW5RZKf91msljGo"
+          },
+          "title": "Pseudo Class",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5Kqa2ZyANgkNAtfUxAU1KP"
+          },
+          "title": "Hover",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "26mbYgMclCWFwJCtw1bmLw"
+          },
+          "title": "Heading",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4jEExrr5rttBJvNCeuNNEo"
+          },
+          "title": "Digital Garden",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4iytqKejnODgBvnTYyfKCE"
+          },
+          "title": "Creative Coding",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4TzAZFehkMPRfclxZU7jhz"
+          },
+          "title": "Accessibility",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6rHKPJtTAWjvg4D7aAi99U"
+          },
+          "title": "Font",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "typography",
+                "name": "typography"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4kGIsFGp1lhyqYgaVV5ANk"
+          },
+          "title": "Paragraph",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              },
+              {
+                "id": "typography",
+                "name": "typography"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5spK8NnkfOqWD2dNkeYe0f"
+          },
+          "title": "User Select",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "51eYq0lSk6XcmDIoEv6uLl"
+          },
+          "title": "Artificial Flatness",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7gVQobWbxFti05whwYInu5"
+          },
+          "title": "No-Code Editor",
+          "metadata": {
+            "tags": [
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7GUBum8whRrLTaVAKoQAGr"
+          },
+          "title": "Digital Literature",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7MVPubl8wjr5uNSSMZ4M6k"
+          },
+          "title": "Digital Reading",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1qAcN43VfQbdZ6Vq6ikSLj"
+          },
+          "title": "Cyberfeminism",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3kpgl4hPVcbTfdNGnwPfUJ"
+          },
+          "title": "Developer Tools",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              },
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3X90caA4LRbN4xOLcIQgE0"
+          },
+          "title": "Text Alignment",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "typography",
+                "name": "typography"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "ZJRpdyHu0fe1B3v6AlZW7"
+          },
+          "title": "Hybrid Publication",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1czgEmXIFPQcWVFg8VRZQN"
+          },
+          "title": "Page Metaphor",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2ABYnMzPbdcoVRHCQpEav8"
+          },
+          "title": "Responsivness",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "4WSOOanCzUHy0akMtqzc5k"
+          },
+          "title": "Grid",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "67Iur5SgEh006E60CLk3w4"
+          },
+          "title": "Flexbox",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2SDgfBJb0TqIw0u9MPTzLf"
+          },
+          "title": "WYSIWYG",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2RmvRuimRiyYsVEo5kIhx0"
+          },
+          "title": "Webdesign",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1dmTPt3ONqIzoLPuoDUMuT"
+          },
+          "title": "Variable Font",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "typography",
+                "name": "typography"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6UzOyP2ueyoyoD8IMtYciu"
+          },
+          "title": "Usability",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7wUlGYvEjCDA8djn7fUJre"
+          },
+          "title": "Spatial Interface",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3RJQsZ5m8f42WS3r189dDe"
+          },
+          "title": "Rhizome",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2UW89qDSRswAxAafyMOYWX"
+          },
+          "title": "Post-Digital Age",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6Nc9jvBRCAEoyS4EDF9O6E"
+          },
+          "title": "Media Queries",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3yOBecAoV11TC0Y5c4tReo"
+          },
+          "title": "Hypertext",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "70YjtGRCs4BUACjaqQzlDY"
+          },
+          "title": "Hyperlink",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7g0kqpwVqPkAYh7KpHl2Dd"
+          },
+          "title": "Handmade Web",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1DDBuJHPyDiiT0BOAEo8V6"
+          },
+          "title": "Graphical User Interface",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1a5QRShaM3BTIUyY1rsLkP"
+          },
+          "title": "Generic Template Design",
+          "metadata": {
+            "tags": [
+              {
+                "id": "trend",
+                "name": "trend"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "2uqMgKXjERU9cs9qR8E0Tp"
+          },
+          "title": "Font Smoothing",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "typography",
+                "name": "typography"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7aP7WpcrLnybp7ybP2w5Cf"
+          },
+          "title": "Brutalism",
+          "metadata": {
+            "tags": [
+              {
+                "id": "trend",
+                "name": "trend"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "l96t42wWfvcMOyqV5tG3D"
+          },
+          "title": "Cursor",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "28lUGSNN396BGryzCjWatV"
+          },
+          "title": "Content Management System",
+          "metadata": {
+            "tags": [
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5iDbuNsGpFL1VgEDoXhyHo"
+          },
+          "title": "Code Editor",
+          "metadata": {
+            "tags": [
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "3TBGoqMl1snjRBxLIzrc6Z"
+          },
+          "title": "CSS",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5E1SmovXET5h0cV1E0tOzT"
+          },
+          "title": "HTML",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "34zBWBy5HyBNj7sYQbx1TN"
+          },
+          "title": "Underlined Text",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              },
+              {
+                "id": "typography",
+                "name": "typography"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6JvYGsB3Z0POfT9EnP867B"
+          },
+          "title": "Framework",
+          "metadata": {
+            "tags": [
+              {
+                "id": "interaction",
+                "name": "interaction"
+              },
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "xobJZlcvdCpQyfNo49VO1"
+          },
+          "title": "Padding",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "AbOSsxIGAkVSMh1dhVbK4"
+          },
+          "title": "Margin",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5C92u0HhjEPKueucEMMIU"
+          },
+          "title": "Web-to-Print",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              },
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "pPIKtdDararBuktP1Ik8Z"
+          },
+          "title": "Blend-Mode",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "5xxqnW1VsVWs2TSUh1pSzE"
+          },
+          "title": "Command-Line Interface",
+          "metadata": {
+            "tags": [
+              {
+                "id": "concept",
+                "name": "concept"
+              },
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "FLAhUrwyFee8ZwKeQU40J"
+          },
+          "title": "Button",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              },
+              {
+                "id": "interaction",
+                "name": "interaction"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "6Bp9D2SYEOkA0RDwkTiEBs"
+          },
+          "title": "Favicon",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "7ui2yDTuWfqN28TIL0oE19"
+          },
+          "title": "Title",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "html",
+                "name": "html"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "1bFgEYrAuGH5cfBS01iDx9"
+          },
+          "title": "Text Selection Color",
+          "metadata": {
+            "tags": [
+              {
+                "id": "coding",
+                "name": "code"
+              },
+              {
+                "id": "css",
+                "name": "css"
+              }
+            ]
+          }
+        },
+        {
+          "sys": {
+            "id": "57iazPGMZBreMXhh6kJTTQ"
+          },
+          "title": "Terminal",
+          "metadata": {
+            "tags": [
+              {
+                "id": "tool",
+                "name": "tool"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

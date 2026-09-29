@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6jYmBv1BSm28PbJRDXgqa0",
+    "type": "Entry",
+    "createdAt": "2023-02-10T09:52:47.705Z",
+    "updatedAt": "2023-02-10T09:52:47.705Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 5,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Mark Bernstein: Hypertext Gardens",
+    "ref": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "uri": "http://www.eastgate.com/garden/Gardens.html"
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Mark Bernstein: Hypertext Gardens",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

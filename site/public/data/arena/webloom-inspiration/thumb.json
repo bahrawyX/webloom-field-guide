@@ -1,0 +1,599 @@
+{
+  "title": ".softInspiration",
+  "created_at": "2023-03-12T09:23:04.341Z",
+  "updated_at": "2026-09-18T21:55:01.234Z",
+  "added_to_at": "2026-03-13T10:26:52.080Z",
+  "published": true,
+  "open": true,
+  "collaboration": false,
+  "collaborator_count": 0,
+  "slug": "softinspiration",
+  "length": 85,
+  "kind": "default",
+  "status": "public",
+  "user_id": 495726,
+  "metadata": {
+    "description": "https://softglossary.space/"
+  },
+  "contents": [
+    {
+      "title": "Hothouse",
+      "updated_at": "2025-12-07T12:51:55.961Z",
+      "created_at": "2022-03-02T22:51:26.516Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Hothouse",
+      "content_html": "",
+      "description_html": "",
+      "visibility": "public",
+      "content": "",
+      "description": "",
+      "source": {
+        "url": "https://h0t.house/",
+        "title": "Hothouse",
+        "provider": {
+          "name": "hothouse",
+          "url": "h0t.house"
+        }
+      },
+      "image": {
+        "filename": "72e66c9a339b208456dc3ee2ac58d3d0.png",
+        "content_type": "image/png",
+        "updated_at": "2022-03-02T22:51:36.306Z",
+        "thumb": {
+          "url": "/media/arena-15412300-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-15412300-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-15412300-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-15412300-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-15412300-original.png",
+          "file_size": 1075515,
+          "file_size_display": "1.03 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 15412300,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2022-02-27T12:18:17.134Z",
+        "slug": "joey-roux",
+        "username": "Joey Roux",
+        "first_name": "Joey",
+        "last_name": "Roux",
+        "full_name": "Joey Roux",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 5,
+        "following_count": 172,
+        "profile_id": 1454583,
+        "follower_count": 0,
+        "initials": "JR",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 344268,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 1,
+      "selected": false,
+      "connection_id": 40368161,
+      "connected_at": "2023-03-17T13:47:17.719Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "thehost.is/DarshaHewitt",
+      "updated_at": "2023-03-17T13:47:59.609Z",
+      "created_at": "2022-03-01T13:33:55.148Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "thehost.is/DarshaHewitt",
+      "content_html": "",
+      "description_html": "<p>THEHOST.IS ist ein digitales Residenzprogramm der Deichtorhallen Hamburg und Kampnagel. . THEHOST.IS entsteht im Rahmen des Verbundprojekts »Diversify the Code«, das im Programm Kultur Digital der Kulturstiftung des Bundes gefördert wird.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "THEHOST.IS ist ein digitales Residenzprogramm der Deichtorhallen Hamburg und Kampnagel. . THEHOST.IS entsteht im Rahmen des Verbundprojekts »Diversify the Code«, das im Programm Kultur Digital der Kulturstiftung des Bundes gefördert wird.",
+      "source": {
+        "url": "https://thehost.is/DarshaHewitt",
+        "title": "thehost.is/DarshaHewitt",
+        "provider": {
+          "name": "thehost.is",
+          "url": "thehost.is"
+        }
+      },
+      "image": {
+        "filename": "11b085cb55dfe07e1423809bb19e0629.png",
+        "content_type": "image/png",
+        "updated_at": "2022-03-01T13:34:17.899Z",
+        "thumb": {
+          "url": "/media/arena-15384627-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-15384627-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-15384627-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-15384627-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-15384627-original.png",
+          "file_size": 1203761,
+          "file_size_display": "1.15 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 15384627,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2017-06-12T09:51:32.810Z",
+        "slug": "jonas-pelzer",
+        "username": "Jonas Pelzer",
+        "first_name": "Jonas",
+        "last_name": "Pelzer",
+        "full_name": "Jonas Pelzer",
+        "avatar": "https://static.avatars.are.na/16744/small_6fc0bc8411ca47d2bd778b755688aa74.jpeg?1785946578",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/16744/small_6fc0bc8411ca47d2bd778b755688aa74.jpeg?1785946578",
+          "display": "https://static.avatars.are.na/16744/medium_6fc0bc8411ca47d2bd778b755688aa74.jpeg?1785946578"
+        },
+        "channel_count": 40,
+        "following_count": 400,
+        "profile_id": 78556,
+        "follower_count": 390,
+        "initials": "JP",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "investor",
+        "id": 16744,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 2,
+      "selected": false,
+      "connection_id": 40368185,
+      "connected_at": "2023-03-17T13:47:59.346Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Selected Work Archive - Hyunjun Jang",
+      "updated_at": "2026-08-28T12:11:36.542Z",
+      "created_at": "2020-02-14T09:40:27.535Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Selected Work Archive - Hyunjun Jang",
+      "content_html": "",
+      "description_html": "",
+      "visibility": "public",
+      "content": "",
+      "description": "",
+      "source": {
+        "url": "https://www.hyunjunjang.com/",
+        "title": "Selected Work Archive - Hyunjun Jang",
+        "provider": {
+          "name": "Hyunjunjang",
+          "url": "https://www.hyunjunjang.com"
+        }
+      },
+      "image": {
+        "filename": "493c2f618980033897699b073e85699b.png",
+        "content_type": "image/png",
+        "updated_at": "2020-02-14T09:40:29.273Z",
+        "thumb": {
+          "url": "/media/arena-6172866-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-6172866-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-6172866-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-6172866-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-6172866-original.png",
+          "file_size": 125129,
+          "file_size_display": "122 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": {},
+      "id": 6172866,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2017-10-23T11:04:02.135Z",
+        "slug": "jack-wells",
+        "username": "Jack Wells",
+        "first_name": "Jack",
+        "last_name": "Wells",
+        "full_name": "Jack Wells",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 51,
+        "following_count": 9,
+        "profile_id": 102138,
+        "follower_count": 51,
+        "initials": "JW",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": true,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 21590,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 3,
+      "selected": false,
+      "connection_id": 40368190,
+      "connected_at": "2023-03-17T13:48:11.848Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "02 28 2018",
+      "updated_at": "2024-05-22T01:04:14.241Z",
+      "created_at": "2021-12-21T20:39:03.484Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "02 28 2018",
+      "content_html": "",
+      "description_html": "<p>TO SEE THE WAVE AS A SLIDING DOOR</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "TO SEE THE WAVE AS A SLIDING DOOR",
+      "source": {
+        "url": "https://toseethewaveasaslidingdoor.com/",
+        "title": "02 28 2018",
+        "provider": {
+          "name": "toseethewaveasaslidingdoor.com",
+          "url": "toseethewaveasaslidingdoor.com"
+        }
+      },
+      "image": {
+        "filename": "513c33a5ebfb83e16c9e70d9e21e7684.png",
+        "content_type": "image/png",
+        "updated_at": "2021-12-21T20:39:10.766Z",
+        "thumb": {
+          "url": "/media/arena-14436295-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-14436295-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-14436295-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-14436295-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-14436295-original.png",
+          "file_size": 185158,
+          "file_size_display": "181 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 14436295,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2021-10-02T15:44:01.595Z",
+        "slug": "zip",
+        "username": ". zip",
+        "first_name": ".",
+        "last_name": "zip",
+        "full_name": ". zip",
+        "avatar": "https://static.avatars.are.na/290378/small_115d29f6824c035e3abd7f0222bba69b.png?1767301288",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/290378/small_115d29f6824c035e3abd7f0222bba69b.png?1767301288",
+          "display": "https://static.avatars.are.na/290378/medium_115d29f6824c035e3abd7f0222bba69b.png?1767301288"
+        },
+        "channel_count": -93,
+        "following_count": 36,
+        "profile_id": 1239704,
+        "follower_count": 103,
+        "initials": ".z",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 290378,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 4,
+      "selected": false,
+      "connection_id": 40368210,
+      "connected_at": "2023-03-17T13:49:10.365Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "hallointer.net",
+      "updated_at": "2023-07-10T01:42:02.390Z",
+      "created_at": "2023-03-17T13:51:42.455Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "hallointer.net",
+      "content_html": "",
+      "description_html": "<p>Personenbezogene Daten (nachfolgend zumeist nur „Daten\" genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet. Gemäß Art. 4 Ziffer 1.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "Personenbezogene Daten (nachfolgend zumeist nur „Daten\" genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet. Gemäß Art. 4 Ziffer 1.",
+      "source": {
+        "url": "https://hallointer.net/",
+        "title": "hallointer.net",
+        "provider": {
+          "name": "Hallointer",
+          "url": "https://hallointer.net"
+        }
+      },
+      "image": {
+        "filename": "89a8802e7aa1989791385f8941086121.png",
+        "content_type": "image/png",
+        "updated_at": "2023-03-17T13:52:20.214Z",
+        "thumb": {
+          "url": "/media/arena-20919221-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-20919221-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-20919221-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-20919221-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-20919221-original.png",
+          "file_size": 706604,
+          "file_size_display": "690 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 20919221,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2023-03-12T09:22:32.835Z",
+        "slug": "soft-glossary",
+        "username": ".soft  Glossary",
+        "first_name": ".soft",
+        "last_name": " Glossary",
+        "full_name": ".soft  Glossary",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 3,
+        "following_count": 96,
+        "profile_id": 2063846,
+        "follower_count": 31,
+        "initials": ".G",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 495726,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 5,
+      "selected": false,
+      "connection_id": 40368266,
+      "connected_at": "2023-03-17T13:51:42.465Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "HomeComing™",
+      "updated_at": "2024-02-24T18:51:23.822Z",
+      "created_at": "2020-05-26T17:30:13.282Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "HomeComing™",
+      "content_html": "",
+      "description_html": "",
+      "visibility": "public",
+      "content": "",
+      "description": "",
+      "source": {
+        "url": "http://anjakaiser.info/HomeComing/",
+        "title": "HomeComing™",
+        "provider": {
+          "name": "anjakaiser.info",
+          "url": "anjakaiser.info"
+        }
+      },
+      "image": {
+        "filename": "33a78cea269b09c6f27a94ca5944bc42.png",
+        "content_type": "image/png",
+        "updated_at": "2020-05-26T17:30:28.022Z",
+        "thumb": {
+          "url": "/media/arena-7438172-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-7438172-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-7438172-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-7438172-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-7438172-original.png",
+          "file_size": 701102,
+          "file_size_display": "685 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": {},
+      "id": 7438172,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2019-12-11T18:12:37.584Z",
+        "slug": "r-khandarkhaev",
+        "username": "R Khandarkhaev",
+        "first_name": "R",
+        "last_name": "Khandarkhaev",
+        "full_name": "R Khandarkhaev",
+        "avatar": "https://static.avatars.are.na/140826/small_e9babcc84ee066cff461c90c88712b38.jpg?1643019138",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/140826/small_e9babcc84ee066cff461c90c88712b38.jpg?1643019138",
+          "display": "https://static.avatars.are.na/140826/medium_e9babcc84ee066cff461c90c88712b38.jpg?1643019138"
+        },
+        "channel_count": 116,
+        "following_count": 403,
+        "profile_id": 540995,
+        "follower_count": 61,
+        "initials": "RK",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": true,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 140826,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 6,
+      "selected": false,
+      "connection_id": 40368292,
+      "connected_at": "2023-03-17T13:52:10.716Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    }
+  ],
+  "share_link": null,
+  "follower_count": 72,
+  "can_index": true,
+  "owner_type": "User",
+  "owner_id": 495726,
+  "owner_slug": "soft-glossary",
+  "nsfw?": false,
+  "state": "available",
+  "user": {
+    "created_at": "2023-03-12T09:22:32.835Z",
+    "slug": "soft-glossary",
+    "username": ".soft  Glossary",
+    "first_name": ".soft",
+    "last_name": " Glossary",
+    "full_name": ".soft  Glossary",
+    "avatar": "",
+    "avatar_image": {
+      "thumb": "",
+      "display": ""
+    },
+    "channel_count": 3,
+    "following_count": 96,
+    "profile_id": 2063846,
+    "follower_count": 31,
+    "initials": ".G",
+    "can_index": true,
+    "metadata": {
+      "description": null
+    },
+    "is_premium": false,
+    "is_lifetime_premium": false,
+    "is_supporter": false,
+    "is_exceeding_connections_limit": false,
+    "is_confirmed": true,
+    "is_pending_reconfirmation": false,
+    "is_pending_confirmation": false,
+    "badge": null,
+    "id": 495726,
+    "base_class": "User",
+    "class": "User"
+  },
+  "group": null,
+  "id": 2063847,
+  "base_class": "Channel",
+  "class": "Channel"
+}

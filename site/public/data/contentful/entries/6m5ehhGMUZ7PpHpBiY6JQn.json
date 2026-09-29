@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6m5ehhGMUZ7PpHpBiY6JQn",
+    "type": "Entry",
+    "createdAt": "2023-03-23T10:11:09.157Z",
+    "updatedAt": "2023-06-25T13:58:46.711Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 19,
+    "revision": 5,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Sybille  Krämer: Kulturgeschichte der Digitalisierung",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            },
+            {
+              "nodeType": "hyperlink",
+              "data": {
+                "uri": "https://www.hiig.de/wp-content/uploads/2020/01/Kulturgeschichte-der-Digitalisierung_Sybille-Kra%CC%88mer_Februar-2020.pdf"
+              },
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Sybille Krämer: Kulturgeschichte der Digitalisierung",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

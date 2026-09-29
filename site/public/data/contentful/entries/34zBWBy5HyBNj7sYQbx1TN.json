@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "coding"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "css"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "html"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "typography"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "34zBWBy5HyBNj7sYQbx1TN",
+    "type": "Entry",
+    "createdAt": "2023-03-01T17:21:06.506Z",
+    "updatedAt": "2023-03-23T19:10:43.467Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 170,
+    "revision": 19,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Underlined Text",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "There are a few ways to underline text on a website. The simplest way is probably to use the html ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "ul",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " tag. Another way is to use the css property ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "text-decoration. ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "Here you got some different values to choose from, like ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "wavy",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " or ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "dotted",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " lines. With text-decoration you can not only underline, but also ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "overline",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " text, put a  ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "line-through",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " it or make it ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "blink",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". You can also change the thickness of your text-decoration. Yet another way to underline text is to give a text span a ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "border-bottom",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ".",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Background",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Underlined text is typically used for ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "70YjtGRCs4BUACjaqQzlDY",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "hyperlinks",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". The default styling of hyperlinks is since the beginning of the web blue underlined text. This look is quite popular in ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "7aP7WpcrLnybp7ybP2w5Cf",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "brutalist webdesign",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". This appearance is so learned today that most people will assume that they can click on underlined text and be redirected to another website. You should be aware of this when using underlining.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Possibilities",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "There are not only a lot of ways to implement and style underlined text, but also to animate it. For this you can use for example p",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "seudo-classes like",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": ":",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "5Kqa2ZyANgkNAtfUxAU1KP",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "hover",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " or",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": " ::after",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". Here you can see some quite simple css animations:",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeField": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "value": "html\n<p>This text is <u>underlined</u></p>",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "value": "css\na{\n  /* simple underlining */\n  text-decoration: underline;\n  /* dotted underlining */\n  text-decoration: underline dotted;\n  /* wavy underlining */\n  text-decoration: black wavy underline 4px;\n}",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "value": "css\nspan{\n  border-bottom: 1px solid black;\n}",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Further technical information",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.codecademy.com/article/glossary-html"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Codecademy",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration?retiredLocale=de"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "mdn web docs",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Related terms in this glossary",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "70YjtGRCs4BUACjaqQzlDY",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Hyperlink",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "5Kqa2ZyANgkNAtfUxAU1KP",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Hover",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "7aP7WpcrLnybp7ybP2w5Cf",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Brutalism",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "specialElement": "underlined-text"
+  }
+}

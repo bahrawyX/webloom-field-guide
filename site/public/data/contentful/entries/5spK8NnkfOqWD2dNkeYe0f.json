@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "coding"
+        }
+      },
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "css"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "5spK8NnkfOqWD2dNkeYe0f",
+    "type": "Entry",
+    "createdAt": "2023-03-03T15:59:36.014Z",
+    "updatedAt": "2023-06-25T14:53:28.664Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 109,
+    "revision": 4,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "User Select",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "The user-select CSS property controls whether the user can select text. Per default the user can select text (and other objects) via clicking and dragging. But there may be situations, when you want to disable this behaviour, because you want to select a whole paragraph on click for example or no text at all. Therefore the user-select property might be useful for you. It has five values: ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "auto",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ", ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "text",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ", ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "contain",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ", ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "all",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " and ",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "none",
+              "nodeType": "text"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ".",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "You can not only decide between these different user-select values, but also style the color of the selection. Check out the ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "1bFgEYrAuGH5cfBS01iDx9",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Text Selection Color",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " property, if you wanna learn how to do this.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeField": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "css\np{\n  /* Keyword values */\n  user-select: auto;\n  user-select: text;\n  user-select: contain;\n  user-select: all; \n  user-select: none; \n\n  -webkit-user-select: none;  /* Chrome all / Safari all */\n  -moz-user-select: none;     /* Firefox all */\n  -ms-user-select: none;      /* IE 10+ */\n}",
+              "marks": [
+                {
+                  "type": "code"
+                }
+              ],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Further technical informations",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://css-tricks.com/almanac/properties/u/user-select/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "CSS Tricks",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://developer.mozilla.org/en-US/docs/Web/CSS/user-select"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "mdn web docs",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Related terms in this glossary",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "1bFgEYrAuGH5cfBS01iDx9",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Text Selection Color",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "entry-hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

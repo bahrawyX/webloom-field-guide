@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2WGKTmG4E9x9vgAES8DxsK",
+    "type": "Asset",
+    "createdAt": "2023-03-21T21:23:41.538Z",
+    "updatedAt": "2023-03-22T12:33:48.086Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 10,
+    "revision": 3,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "gap",
+    "description": "gap",
+    "file": {
+      "url": "/media/gap-f91843935231.svg",
+      "details": {
+        "size": 15612,
+        "image": {
+          "width": 235,
+          "height": 100
+        }
+      },
+      "fileName": "gap.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

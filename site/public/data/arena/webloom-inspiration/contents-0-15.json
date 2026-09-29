@@ -1,0 +1,1339 @@
+{
+  "contents": [
+    {
+      "title": "Hothouse",
+      "updated_at": "2025-12-07T12:51:55.961Z",
+      "created_at": "2022-03-02T22:51:26.516Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Hothouse",
+      "content_html": "",
+      "description_html": "",
+      "visibility": "public",
+      "content": "",
+      "description": "",
+      "source": {
+        "url": "https://h0t.house/",
+        "title": "Hothouse",
+        "provider": {
+          "name": "hothouse",
+          "url": "h0t.house"
+        }
+      },
+      "image": {
+        "filename": "72e66c9a339b208456dc3ee2ac58d3d0.png",
+        "content_type": "image/png",
+        "updated_at": "2022-03-02T22:51:36.306Z",
+        "thumb": {
+          "url": "/media/arena-15412300-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-15412300-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-15412300-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-15412300-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-15412300-original.png",
+          "file_size": 1075515,
+          "file_size_display": "1.03 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 15412300,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2022-02-27T12:18:17.134Z",
+        "slug": "joey-roux",
+        "username": "Joey Roux",
+        "first_name": "Joey",
+        "last_name": "Roux",
+        "full_name": "Joey Roux",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 5,
+        "following_count": 172,
+        "profile_id": 1454583,
+        "follower_count": 0,
+        "initials": "JR",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 344268,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 1,
+      "selected": false,
+      "connection_id": 40368161,
+      "connected_at": "2023-03-17T13:47:17.719Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "thehost.is/DarshaHewitt",
+      "updated_at": "2023-03-17T13:47:59.609Z",
+      "created_at": "2022-03-01T13:33:55.148Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "thehost.is/DarshaHewitt",
+      "content_html": "",
+      "description_html": "<p>THEHOST.IS ist ein digitales Residenzprogramm der Deichtorhallen Hamburg und Kampnagel. . THEHOST.IS entsteht im Rahmen des Verbundprojekts »Diversify the Code«, das im Programm Kultur Digital der Kulturstiftung des Bundes gefördert wird.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "THEHOST.IS ist ein digitales Residenzprogramm der Deichtorhallen Hamburg und Kampnagel. . THEHOST.IS entsteht im Rahmen des Verbundprojekts »Diversify the Code«, das im Programm Kultur Digital der Kulturstiftung des Bundes gefördert wird.",
+      "source": {
+        "url": "https://thehost.is/DarshaHewitt",
+        "title": "thehost.is/DarshaHewitt",
+        "provider": {
+          "name": "thehost.is",
+          "url": "thehost.is"
+        }
+      },
+      "image": {
+        "filename": "11b085cb55dfe07e1423809bb19e0629.png",
+        "content_type": "image/png",
+        "updated_at": "2022-03-01T13:34:17.899Z",
+        "thumb": {
+          "url": "/media/arena-15384627-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-15384627-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-15384627-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-15384627-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-15384627-original.png",
+          "file_size": 1203761,
+          "file_size_display": "1.15 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 15384627,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2017-06-12T09:51:32.810Z",
+        "slug": "jonas-pelzer",
+        "username": "Jonas Pelzer",
+        "first_name": "Jonas",
+        "last_name": "Pelzer",
+        "full_name": "Jonas Pelzer",
+        "avatar": "https://static.avatars.are.na/16744/small_6fc0bc8411ca47d2bd778b755688aa74.jpeg?1785946578",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/16744/small_6fc0bc8411ca47d2bd778b755688aa74.jpeg?1785946578",
+          "display": "https://static.avatars.are.na/16744/medium_6fc0bc8411ca47d2bd778b755688aa74.jpeg?1785946578"
+        },
+        "channel_count": 40,
+        "following_count": 400,
+        "profile_id": 78556,
+        "follower_count": 390,
+        "initials": "JP",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "investor",
+        "id": 16744,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 2,
+      "selected": false,
+      "connection_id": 40368185,
+      "connected_at": "2023-03-17T13:47:59.346Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Selected Work Archive - Hyunjun Jang",
+      "updated_at": "2026-08-28T12:11:36.542Z",
+      "created_at": "2020-02-14T09:40:27.535Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Selected Work Archive - Hyunjun Jang",
+      "content_html": "",
+      "description_html": "",
+      "visibility": "public",
+      "content": "",
+      "description": "",
+      "source": {
+        "url": "https://www.hyunjunjang.com/",
+        "title": "Selected Work Archive - Hyunjun Jang",
+        "provider": {
+          "name": "Hyunjunjang",
+          "url": "https://www.hyunjunjang.com"
+        }
+      },
+      "image": {
+        "filename": "493c2f618980033897699b073e85699b.png",
+        "content_type": "image/png",
+        "updated_at": "2020-02-14T09:40:29.273Z",
+        "thumb": {
+          "url": "/media/arena-6172866-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-6172866-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-6172866-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-6172866-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-6172866-original.png",
+          "file_size": 125129,
+          "file_size_display": "122 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": {},
+      "id": 6172866,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2017-10-23T11:04:02.135Z",
+        "slug": "jack-wells",
+        "username": "Jack Wells",
+        "first_name": "Jack",
+        "last_name": "Wells",
+        "full_name": "Jack Wells",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 51,
+        "following_count": 9,
+        "profile_id": 102138,
+        "follower_count": 51,
+        "initials": "JW",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": true,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 21590,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 3,
+      "selected": false,
+      "connection_id": 40368190,
+      "connected_at": "2023-03-17T13:48:11.848Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "02 28 2018",
+      "updated_at": "2024-05-22T01:04:14.241Z",
+      "created_at": "2021-12-21T20:39:03.484Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "02 28 2018",
+      "content_html": "",
+      "description_html": "<p>TO SEE THE WAVE AS A SLIDING DOOR</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "TO SEE THE WAVE AS A SLIDING DOOR",
+      "source": {
+        "url": "https://toseethewaveasaslidingdoor.com/",
+        "title": "02 28 2018",
+        "provider": {
+          "name": "toseethewaveasaslidingdoor.com",
+          "url": "toseethewaveasaslidingdoor.com"
+        }
+      },
+      "image": {
+        "filename": "513c33a5ebfb83e16c9e70d9e21e7684.png",
+        "content_type": "image/png",
+        "updated_at": "2021-12-21T20:39:10.766Z",
+        "thumb": {
+          "url": "/media/arena-14436295-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-14436295-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-14436295-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-14436295-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-14436295-original.png",
+          "file_size": 185158,
+          "file_size_display": "181 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 14436295,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2021-10-02T15:44:01.595Z",
+        "slug": "zip",
+        "username": ". zip",
+        "first_name": ".",
+        "last_name": "zip",
+        "full_name": ". zip",
+        "avatar": "https://static.avatars.are.na/290378/small_115d29f6824c035e3abd7f0222bba69b.png?1767301288",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/290378/small_115d29f6824c035e3abd7f0222bba69b.png?1767301288",
+          "display": "https://static.avatars.are.na/290378/medium_115d29f6824c035e3abd7f0222bba69b.png?1767301288"
+        },
+        "channel_count": -93,
+        "following_count": 36,
+        "profile_id": 1239704,
+        "follower_count": 103,
+        "initials": ".z",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 290378,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 4,
+      "selected": false,
+      "connection_id": 40368210,
+      "connected_at": "2023-03-17T13:49:10.365Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "hallointer.net",
+      "updated_at": "2023-07-10T01:42:02.390Z",
+      "created_at": "2023-03-17T13:51:42.455Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "hallointer.net",
+      "content_html": "",
+      "description_html": "<p>Personenbezogene Daten (nachfolgend zumeist nur „Daten\" genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet. Gemäß Art. 4 Ziffer 1.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "Personenbezogene Daten (nachfolgend zumeist nur „Daten\" genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet. Gemäß Art. 4 Ziffer 1.",
+      "source": {
+        "url": "https://hallointer.net/",
+        "title": "hallointer.net",
+        "provider": {
+          "name": "Hallointer",
+          "url": "https://hallointer.net"
+        }
+      },
+      "image": {
+        "filename": "89a8802e7aa1989791385f8941086121.png",
+        "content_type": "image/png",
+        "updated_at": "2023-03-17T13:52:20.214Z",
+        "thumb": {
+          "url": "/media/arena-20919221-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-20919221-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-20919221-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-20919221-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-20919221-original.png",
+          "file_size": 706604,
+          "file_size_display": "690 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 20919221,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2023-03-12T09:22:32.835Z",
+        "slug": "soft-glossary",
+        "username": ".soft  Glossary",
+        "first_name": ".soft",
+        "last_name": " Glossary",
+        "full_name": ".soft  Glossary",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 3,
+        "following_count": 96,
+        "profile_id": 2063846,
+        "follower_count": 31,
+        "initials": ".G",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 495726,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 5,
+      "selected": false,
+      "connection_id": 40368266,
+      "connected_at": "2023-03-17T13:51:42.465Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "HomeComing™",
+      "updated_at": "2024-02-24T18:51:23.822Z",
+      "created_at": "2020-05-26T17:30:13.282Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "HomeComing™",
+      "content_html": "",
+      "description_html": "",
+      "visibility": "public",
+      "content": "",
+      "description": "",
+      "source": {
+        "url": "http://anjakaiser.info/HomeComing/",
+        "title": "HomeComing™",
+        "provider": {
+          "name": "anjakaiser.info",
+          "url": "anjakaiser.info"
+        }
+      },
+      "image": {
+        "filename": "33a78cea269b09c6f27a94ca5944bc42.png",
+        "content_type": "image/png",
+        "updated_at": "2020-05-26T17:30:28.022Z",
+        "thumb": {
+          "url": "/media/arena-7438172-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-7438172-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-7438172-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-7438172-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-7438172-original.png",
+          "file_size": 701102,
+          "file_size_display": "685 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": {},
+      "id": 7438172,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2019-12-11T18:12:37.584Z",
+        "slug": "r-khandarkhaev",
+        "username": "R Khandarkhaev",
+        "first_name": "R",
+        "last_name": "Khandarkhaev",
+        "full_name": "R Khandarkhaev",
+        "avatar": "https://static.avatars.are.na/140826/small_e9babcc84ee066cff461c90c88712b38.jpg?1643019138",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/140826/small_e9babcc84ee066cff461c90c88712b38.jpg?1643019138",
+          "display": "https://static.avatars.are.na/140826/medium_e9babcc84ee066cff461c90c88712b38.jpg?1643019138"
+        },
+        "channel_count": 116,
+        "following_count": 403,
+        "profile_id": 540995,
+        "follower_count": 61,
+        "initials": "RK",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": true,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 140826,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 6,
+      "selected": false,
+      "connection_id": 40368292,
+      "connected_at": "2023-03-17T13:52:10.716Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "bus.group",
+      "updated_at": "2026-06-18T04:32:35.394Z",
+      "created_at": "2021-01-20T11:57:04.049Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "bus.group",
+      "content_html": "",
+      "description_html": "<p>bus.group is a creative service for breathless hydration. We develop contemporary visual content in close partnership with clients across the corporate and cultural stage.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "bus.group is a creative service for breathless hydration. We develop contemporary visual content in close partnership with clients across the corporate and cultural stage.",
+      "source": {
+        "url": "https://bus.group/",
+        "title": "bus.group",
+        "provider": {
+          "name": "bus.group",
+          "url": "bus.group"
+        }
+      },
+      "image": {
+        "filename": "26e2512716c72d23ad2a5218dde24467.png",
+        "content_type": "image/png",
+        "updated_at": "2021-01-20T11:57:19.471Z",
+        "thumb": {
+          "url": "/media/arena-10324142-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-10324142-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-10324142-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-10324142-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-10324142-original.png",
+          "file_size": 2464547,
+          "file_size_display": "2.35 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 10324142,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2019-08-13T14:58:56.262Z",
+        "slug": "theo-marielle",
+        "username": "Théo Marielle",
+        "first_name": "Théo",
+        "last_name": "Marielle",
+        "full_name": "Théo Marielle",
+        "avatar": "https://static.avatars.are.na/119496/small_62e4a3785a2efc1f0cdc9c842b14f2eb.jpg?1766319277",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/119496/small_62e4a3785a2efc1f0cdc9c842b14f2eb.jpg?1766319277",
+          "display": "https://static.avatars.are.na/119496/medium_62e4a3785a2efc1f0cdc9c842b14f2eb.jpg?1766319277"
+        },
+        "channel_count": 663,
+        "following_count": 240,
+        "profile_id": 450031,
+        "follower_count": 2057,
+        "initials": "TM",
+        "can_index": false,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 119496,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 7,
+      "selected": false,
+      "connection_id": 40368343,
+      "connected_at": "2023-03-17T13:54:07.090Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Reading Machines",
+      "updated_at": "2025-06-19T08:21:40.496Z",
+      "created_at": "2021-06-04T11:35:24.367Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Reading Machines",
+      "content_html": "",
+      "description_html": "<p>A publishing platform to reimagine established relationships between reader, text, and author, and to fully utilize the affordances the web offers in the presentation of text.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "A publishing platform to reimagine established relationships between reader, text, and author, and to fully utilize the affordances the web offers in the presentation of text.",
+      "source": {
+        "url": "https://tdingsun.github.io/reading-machines/",
+        "title": "Reading Machines",
+        "provider": {
+          "name": "github.io",
+          "url": "tdingsun.github.io"
+        }
+      },
+      "image": {
+        "filename": "8902e3a4dac733ed64205bcd40d09e7b.png",
+        "content_type": "image/png",
+        "updated_at": "2021-06-04T11:35:36.600Z",
+        "thumb": {
+          "url": "/media/arena-12171120-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-12171120-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-12171120-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-12171120-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-12171120-original.png",
+          "file_size": 514389,
+          "file_size_display": "502 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 12171120,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2021-03-01T10:57:04.695Z",
+        "slug": "gina-bartzok",
+        "username": "Gina Bartzok",
+        "first_name": "Gina",
+        "last_name": "Bartzok",
+        "full_name": "Gina Bartzok",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 14,
+        "following_count": 165,
+        "profile_id": 999807,
+        "follower_count": 34,
+        "initials": "GB",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 234371,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 8,
+      "selected": false,
+      "connection_id": 40368381,
+      "connected_at": "2023-03-17T13:55:31.207Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Philipp Polder",
+      "updated_at": "2023-05-03T23:11:57.825Z",
+      "created_at": "2023-01-23T22:42:51.350Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Philipp Polder",
+      "content_html": "",
+      "description_html": "<p>Philipp Polder is a multidisciplinary designer, webdeveloper and consultant specializing in unconventional online presences</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "Philipp Polder is a multidisciplinary designer, webdeveloper and consultant specializing in unconventional online presences",
+      "source": {
+        "url": "https://www.ppolder.com/",
+        "title": "Philipp Polder",
+        "provider": {
+          "name": "Philipp Polder",
+          "url": "www.ppolder.com"
+        }
+      },
+      "image": {
+        "filename": "a69d272632366ae9bd4ad442fa29000f.png",
+        "content_type": "image/png",
+        "updated_at": "2023-01-23T22:42:59.428Z",
+        "thumb": {
+          "url": "/media/arena-19994947-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-19994947-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-19994947-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-19994947-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-19994947-original.png",
+          "file_size": 2553275,
+          "file_size_display": "2.43 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 19994947,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2018-05-21T13:56:44.940Z",
+        "slug": "oxomoto",
+        "username": "oxomoto 🔗",
+        "first_name": "oxomoto",
+        "last_name": "🔗",
+        "full_name": "oxomoto 🔗",
+        "avatar": "https://static.avatars.are.na/56747/small_1b98e13be30d8472e2a250918d78978f.png?1540167561",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/56747/small_1b98e13be30d8472e2a250918d78978f.png?1540167561",
+          "display": "https://static.avatars.are.na/56747/medium_1b98e13be30d8472e2a250918d78978f.png?1540167561"
+        },
+        "channel_count": 563,
+        "following_count": 1012,
+        "profile_id": 195759,
+        "follower_count": 223,
+        "initials": "o🔗",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 56747,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 9,
+      "selected": false,
+      "connection_id": 40368395,
+      "connected_at": "2023-03-17T13:56:12.598Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "TWOMUCH.STUDIO",
+      "updated_at": "2026-07-25T01:12:29.804Z",
+      "created_at": "2020-02-26T02:34:01.113Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "TWOMUCH.STUDIO",
+      "content_html": "",
+      "description_html": "<p>TWOMUCH.STUDIO is a London based design studio playing with all things digital.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "TWOMUCH.STUDIO is a London based design studio playing with all things digital.",
+      "source": {
+        "url": "https://twomuch.studio/",
+        "title": "TWOMUCH.STUDIO",
+        "provider": {
+          "name": "Twomuch",
+          "url": "https://twomuch.studio"
+        }
+      },
+      "image": {
+        "filename": "a8f150462bcad812e29157a1d9cf56f0.png",
+        "content_type": "image/png",
+        "updated_at": "2020-02-26T02:34:03.785Z",
+        "thumb": {
+          "url": "/media/arena-6285247-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-6285247-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-6285247-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-6285247-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-6285247-original.png",
+          "file_size": 673928,
+          "file_size_display": "658 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": {},
+      "id": 6285247,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2015-11-09T17:00:20.400Z",
+        "slug": "cole-mitchell-johnson",
+        "username": "Cole Mitchell Johnson",
+        "first_name": "Cole Mitchell",
+        "last_name": "Johnson",
+        "full_name": "Cole Mitchell Johnson",
+        "avatar": "https://static.avatars.are.na/8662/small_8abd784f66a91c3d4cefea94623043f3.png?1536637180",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/8662/small_8abd784f66a91c3d4cefea94623043f3.png?1536637180",
+          "display": "https://static.avatars.are.na/8662/medium_8abd784f66a91c3d4cefea94623043f3.png?1536637180"
+        },
+        "channel_count": 129,
+        "following_count": 555,
+        "profile_id": 36228,
+        "follower_count": 264,
+        "initials": "CMJ",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 8662,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 10,
+      "selected": false,
+      "connection_id": 40368422,
+      "connected_at": "2023-03-17T13:57:22.342Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "DVTK →↓↑←",
+      "updated_at": "2026-06-19T20:37:34.283Z",
+      "created_at": "2023-03-06T19:52:04.365Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "DVTK →↓↑←",
+      "content_html": "",
+      "description_html": "<p>New narratives for digital spaces. We partner with visionary brands and institutions to make new virtual worlds.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "New narratives for digital spaces. We partner with visionary brands and institutions to make new virtual worlds.",
+      "source": {
+        "url": "https://dvtk.us/",
+        "title": "DVTK →↓↑←",
+        "provider": {
+          "name": "DVTK →↓↑←",
+          "url": "dvtk.us"
+        }
+      },
+      "image": {
+        "filename": "9a501e611401ee95e447faa4c83417ee.png",
+        "content_type": "image/png",
+        "updated_at": "2023-03-06T19:52:17.916Z",
+        "thumb": {
+          "url": "/media/arena-20731897-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-20731897-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-20731897-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-20731897-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-20731897-original.png",
+          "file_size": 634441,
+          "file_size_display": "620 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 20731897,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2018-02-08T15:36:28.705Z",
+        "slug": "studio-namespace",
+        "username": "[studio] Namespace",
+        "first_name": "[studio]",
+        "last_name": "Namespace",
+        "full_name": "[studio] Namespace",
+        "avatar": "https://static.avatars.are.na/33512/small_bbe84e901c4328d5168c265a39152763.png?1549922612",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/33512/small_bbe84e901c4328d5168c265a39152763.png?1549922612",
+          "display": "https://static.avatars.are.na/33512/medium_bbe84e901c4328d5168c265a39152763.png?1549922612"
+        },
+        "channel_count": 462,
+        "following_count": 167,
+        "profile_id": 143110,
+        "follower_count": 99,
+        "initials": "[N",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 33512,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 11,
+      "selected": false,
+      "connection_id": 40368540,
+      "connected_at": "2023-03-17T14:01:26.418Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Constraint Systems",
+      "updated_at": "2024-01-17T04:06:43.373Z",
+      "created_at": "2023-03-17T15:57:58.754Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Constraint Systems",
+      "content_html": "",
+      "description_html": "<p>Alternative interfaces for editing and creating images and text.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "Alternative interfaces for editing and creating images and text.",
+      "source": {
+        "url": "https://constraint.systems/?ref=fuse-kiwi",
+        "title": "Constraint Systems",
+        "provider": {
+          "name": "constraint.systems",
+          "url": "constraint.systems"
+        }
+      },
+      "image": {
+        "filename": "18daef55440e36a2e721d9acd41c1f04.png",
+        "content_type": "image/png",
+        "updated_at": "2023-03-17T15:58:04.363Z",
+        "thumb": {
+          "url": "/media/arena-20921179-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-20921179-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-20921179-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-20921179-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-20921179-original.png",
+          "file_size": 1687240,
+          "file_size_display": "1.61 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 20921179,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2023-03-12T09:22:32.835Z",
+        "slug": "soft-glossary",
+        "username": ".soft  Glossary",
+        "first_name": ".soft",
+        "last_name": " Glossary",
+        "full_name": ".soft  Glossary",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 3,
+        "following_count": 96,
+        "profile_id": 2063846,
+        "follower_count": 31,
+        "initials": ".G",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 495726,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 12,
+      "selected": false,
+      "connection_id": 40372858,
+      "connected_at": "2023-03-17T15:57:58.804Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Fuse.kiwi - Interesting Internet",
+      "updated_at": "2023-03-17T17:30:33.822Z",
+      "created_at": "2023-03-17T15:58:28.026Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Fuse.kiwi - Interesting Internet",
+      "content_html": "",
+      "description_html": "<p>A guide for surfing the creative web. Discover illustration, design, art, photography, 3D, type, videos, websites, music, &amp; reading.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "A guide for surfing the creative web. Discover illustration, design, art, photography, 3D, type, videos, websites, music, &amp; reading.",
+      "source": {
+        "url": "https://www.fuse.kiwi/",
+        "title": "Fuse.kiwi - Interesting Internet",
+        "provider": {
+          "name": "Fuse.kiwi - Interesting Internet",
+          "url": "https://www.fuse.kiwi"
+        }
+      },
+      "image": {
+        "filename": "d96790effff6ac43f0f1ad595961caf8.png",
+        "content_type": "image/png",
+        "updated_at": "2023-03-17T15:58:56.293Z",
+        "thumb": {
+          "url": "/media/arena-20921183-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-20921183-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-20921183-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-20921183-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-20921183-original.png",
+          "file_size": 671060,
+          "file_size_display": "655 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 20921183,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2023-03-12T09:22:32.835Z",
+        "slug": "soft-glossary",
+        "username": ".soft  Glossary",
+        "first_name": ".soft",
+        "last_name": " Glossary",
+        "full_name": ".soft  Glossary",
+        "avatar": "",
+        "avatar_image": {
+          "thumb": "",
+          "display": ""
+        },
+        "channel_count": 3,
+        "following_count": 96,
+        "profile_id": 2063846,
+        "follower_count": 31,
+        "initials": ".G",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": false,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": null,
+        "id": 495726,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 13,
+      "selected": false,
+      "connection_id": 40372873,
+      "connected_at": "2023-03-17T15:58:28.069Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "Godly — The Best Web Design Inspiration",
+      "updated_at": "2026-02-03T13:07:49.364Z",
+      "created_at": "2022-12-16T19:21:57.718Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "Godly — The Best Web Design Inspiration",
+      "content_html": "",
+      "description_html": "<p>Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "Godly is a curation of the best web design inspiration, every day. Browse the best e-commerce websites, portfolio websites, animation websites and more.",
+      "source": {
+        "url": "https://godly.website/",
+        "title": "Godly — The Best Web Design Inspiration",
+        "provider": {
+          "name": "godly.website",
+          "url": "godly.website"
+        }
+      },
+      "image": {
+        "filename": "458c78341bd261adf9f8e1c50b2d4a5a.png",
+        "content_type": "image/png",
+        "updated_at": "2022-12-16T19:22:16.786Z",
+        "thumb": {
+          "url": "/media/arena-19450230-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-19450230-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-19450230-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-19450230-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-19450230-original.png",
+          "file_size": 1035589,
+          "file_size_display": "1010 KB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 19450230,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2016-05-11T00:05:04.587Z",
+        "slug": "luke-harris",
+        "username": "Luke Harris",
+        "first_name": "Luke",
+        "last_name": "Harris",
+        "full_name": "Luke Harris",
+        "avatar": "https://static.avatars.are.na/10508/small_fb265165555f335530abf7bf717a649b.png?1471899300",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/10508/small_fb265165555f335530abf7bf717a649b.png?1471899300",
+          "display": "https://static.avatars.are.na/10508/medium_fb265165555f335530abf7bf717a649b.png?1471899300"
+        },
+        "channel_count": 401,
+        "following_count": 209,
+        "profile_id": 46012,
+        "follower_count": 241,
+        "initials": "LH",
+        "can_index": true,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": false,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "premium",
+        "id": 10508,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 14,
+      "selected": false,
+      "connection_id": 40517836,
+      "connected_at": "2023-03-21T15:20:28.840Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    },
+    {
+      "title": "ITERATIONS – Creative Coding Symposium",
+      "updated_at": "2025-03-07T14:29:47.193Z",
+      "created_at": "2021-11-28T14:20:19.212Z",
+      "state": "available",
+      "comment_count": 0,
+      "generated_title": "ITERATIONS – Creative Coding Symposium",
+      "content_html": "",
+      "description_html": "<p>A creative coding symposium organised by Vera van de Seyp and Creative Coding Utrecht.</p>",
+      "visibility": "public",
+      "content": "",
+      "description": "A creative coding symposium organised by Vera van de Seyp and Creative Coding Utrecht.",
+      "source": {
+        "url": "https://iterations.online/",
+        "title": "ITERATIONS – Creative Coding Symposium",
+        "provider": {
+          "name": "iterations.online",
+          "url": "iterations.online"
+        }
+      },
+      "image": {
+        "filename": "9884de46d6fddd4135b19e6b822c5c31.png",
+        "content_type": "image/png",
+        "updated_at": "2021-11-28T14:20:39.061Z",
+        "thumb": {
+          "url": "/media/arena-14148281-thumb.jpg"
+        },
+        "square": {
+          "url": "/media/arena-14148281-square.jpg"
+        },
+        "display": {
+          "url": "/media/arena-14148281-display.jpg"
+        },
+        "large": {
+          "url": "/media/arena-14148281-large.jpg"
+        },
+        "original": {
+          "url": "/media/arena-14148281-original.png",
+          "file_size": 7627624,
+          "file_size_display": "7.27 MB"
+        }
+      },
+      "embed": null,
+      "attachment": null,
+      "metadata": null,
+      "id": 14148281,
+      "base_class": "Block",
+      "class": "Link",
+      "user": {
+        "created_at": "2017-10-02T13:54:41.551Z",
+        "slug": "hunter-caron",
+        "username": "Hunter Caron",
+        "first_name": "Hunter",
+        "last_name": "Caron",
+        "full_name": "Hunter Caron",
+        "avatar": "https://static.avatars.are.na/20771/small_3aa1cf81723a6309f083c72c7579fb7c.png?1599167933",
+        "avatar_image": {
+          "thumb": "https://static.avatars.are.na/20771/small_3aa1cf81723a6309f083c72c7579fb7c.png?1599167933",
+          "display": "https://static.avatars.are.na/20771/medium_3aa1cf81723a6309f083c72c7579fb7c.png?1599167933"
+        },
+        "channel_count": 159,
+        "following_count": 325,
+        "profile_id": 97469,
+        "follower_count": 131,
+        "initials": "HC",
+        "can_index": false,
+        "metadata": {
+          "description": null
+        },
+        "is_premium": true,
+        "is_lifetime_premium": false,
+        "is_supporter": true,
+        "is_exceeding_connections_limit": false,
+        "is_confirmed": true,
+        "is_pending_reconfirmation": false,
+        "is_pending_confirmation": false,
+        "badge": "supporter",
+        "id": 20771,
+        "base_class": "User",
+        "class": "User"
+      },
+      "position": 15,
+      "selected": false,
+      "connection_id": 40517960,
+      "connected_at": "2023-03-21T15:22:17.290Z",
+      "connected_by_user_id": 495726,
+      "connected_by_username": ".soft  Glossary",
+      "connected_by_user_slug": "soft-glossary"
+    }
+  ]
+}

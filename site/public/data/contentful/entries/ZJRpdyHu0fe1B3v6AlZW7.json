@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "concept"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "ZJRpdyHu0fe1B3v6AlZW7",
+    "type": "Entry",
+    "createdAt": "2023-02-18T19:25:05.459Z",
+    "updatedAt": "2023-03-30T16:13:52.939Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 70,
+    "revision": 12,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Hybrid Publication",
+    "textContent": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Description",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Why is the existence of one medium questioned as soon as there is another newer medium? The web and the book are two different media and can exist in parallel or even enrich each other. The Web has a wealth of information to offer and supports the playback of a wide variety of media formats (such as video, sound, text, etc). Print media have a particularly user-friendly interface and unique feel. Researcher and author Alessandro Ludovico therefore sees the future in mixed forms of both media, hybrid publishing. ",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "blockquote",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "»When we are no longer able to categorise publications as either a ‘print publication’ or an ‘e-publication’ (or a print publication with some electronic enhancement), then the first true hybrids will have arrived.« ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "entry-hyperlink",
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "2OvhEeVWI9UZtgRUMY1Y4r",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "[1]",
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Hybrid publications are both digital and analog in form. And the process of creating such a publication will also benefit from the advantages of both worlds. The challenge of our current time in figuring out what such a hybrid publication can be and how the positive characteristics of both media can be creatively combined.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "blockquote",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "»And so this new generation of publishers, able to make use of various new and old media without the burden of ideological affiliation to any particular one of them, will surely be in a position to develop new and truly hybrid publications, by creatively combining the best standards and interfaces of both digital and print.« ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "entry-hyperlink",
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "2OvhEeVWI9UZtgRUMY1Y4r",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "[1]",
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "codeComment": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Projects",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://hybrid.publishing.systems/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Hybrid Publishing Systems",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Texts on this topic",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://monoskop.org/images/a/a6/Ludovico,_Alessandro_-_Post-Digital_Print._The_Mutation_of_Publishing_Since_1894.pdf"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Alessandro Ludovico: Post-Digital Print",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://arena-attachments.s3.amazonaws.com/842541/8d348b98664a513a4163356202021ce3.pdf?1484936296"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "From Print to Ebooks – a Hybrid Publishing Toolkit for the Arts",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    },
+                    {
+                      "data": {
+                        "uri": "https://www.postdigitalgraphicdesign.com/"
+                      },
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": "Graphic Design in the Post-Digital Age",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "hyperlink"
+                    },
+                    {
+                      "data": {},
+                      "marks": [],
+                      "value": "",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "paragraph"
+                }
+              ],
+              "nodeType": "list-item"
+            }
+          ],
+          "nodeType": "unordered-list"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    }
+  }
+}

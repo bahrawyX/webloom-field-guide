@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "1WM3N8tFkABFXRmsLNdEmA",
+    "type": "Entry",
+    "createdAt": "2023-03-23T14:10:41.498Z",
+    "updatedAt": "2023-03-23T16:56:22.581Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 7,
+    "revision": 2,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Friedrich von Borries: Weltentwerfen - Eine politische Designtheorie, Berlin 2016, p.9",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Friedrich von Borries: Weltentwerfen - Eine politische Designtheorie, Berlin 2016, p.9",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

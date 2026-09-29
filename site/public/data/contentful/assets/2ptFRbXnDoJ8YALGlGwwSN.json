@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2ptFRbXnDoJ8YALGlGwwSN",
+    "type": "Asset",
+    "createdAt": "2024-07-21T14:01:11.307Z",
+    "updatedAt": "2024-07-21T14:09:31.160Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 22,
+    "revision": 4,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Webdesign_styles",
+    "description": "Difference between skeumorphism, flat design and neomorphism",
+    "file": {
+      "url": "/media/webdesign_styles__2_-2fcf393f9c1a.png",
+      "details": {
+        "size": 57855,
+        "image": {
+          "width": 1326,
+          "height": 462
+        }
+      },
+      "fileName": "webdesign_styles (2).png",
+      "contentType": "image/png"
+    }
+  }
+}

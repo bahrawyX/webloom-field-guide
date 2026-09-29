@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "5yeCs5L3VGfqDFaoc6zYUD",
+    "type": "Asset",
+    "createdAt": "2023-03-21T17:38:14.554Z",
+    "updatedAt": "2023-03-22T12:32:28.714Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 12,
+    "revision": 3,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "justify-content",
+    "description": "justify-content",
+    "file": {
+      "url": "/media/justify-content-9e61e40a38db.svg",
+      "details": {
+        "size": 26794,
+        "image": {
+          "width": 235,
+          "height": 123
+        }
+      },
+      "fileName": "justify-content.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

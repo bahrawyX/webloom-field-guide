@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2Ok8oU1adMToUZXOSOXFG9",
+    "type": "Entry",
+    "createdAt": "2023-03-23T14:19:11.133Z",
+    "updatedAt": "2023-03-23T16:56:03.138Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 8,
+    "revision": 2,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Claudia Mareis: Theorien des Designs zur Einführung, Hamburg 2016, p.41 – 45",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Claudia Mareis: Theorien des Designs zur Einführung, Hamburg 2016, p.41 – 45",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

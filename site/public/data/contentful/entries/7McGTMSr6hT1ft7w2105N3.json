@@ -1,0 +1,792 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "trend"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "7McGTMSr6hT1ft7w2105N3",
+    "type": "Entry",
+    "createdAt": "2023-02-18T21:56:21.688Z",
+    "updatedAt": "2024-07-21T15:25:18.472Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 144,
+    "revision": 19,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Neomorphism",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Neomorphism or Neumorphism refers to a trend that was primarily popular on ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "uri": "https://dribbble.com/search/neomorphism"
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Dribbble",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " in 2020. Neomorphism can be characterized by a soft and light look. Elements are usually the same color as the background and are only distinguished by shadows and highlights surrounding the element. In this way, Neomorphism suggested a certain multidimensionality and haptics, which can be described in most examples as pure visual gimmick without deeper meaning. Due to a lack of ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "4TzAZFehkMPRfclxZU7jhz",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "accessibility",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": " for people with visual impairments and non demonstrable advantages, apart from a visual language that differs from the standard, this design trend disappeared again quite quickly.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {
+            "target": {
+              "sys": {
+                "id": "2ptFRbXnDoJ8YALGlGwwSN",
+                "type": "Link",
+                "linkType": "Asset"
+              }
+            }
+          },
+          "content": [],
+          "nodeType": "embedded-asset-block"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ],
+              "value": "Skeumorphism (left), Flat design (middle) and Neomorphism (right) in comparison",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Background",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "The term Neomorphism was coined by Jason Kelly to describe the Combination of the widespread ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "2ZTXtv3YeWVkbsEYoZWnez",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "flat ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "aesthetics of modern interface elements with the three-dimensional look of the first websites of the 90s and 00s, also known as ",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "2Ib0yeXE5iLTu4gX6TDg0e",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Skeuomorphism",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": ". In 2020, Apple released macOS Big Sur, which included Elements in neumorph style, like app icons.",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Texts on this topic",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://webflow.com/blog/neumorphism"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Jeff Cardello: The rise and fall of neumorphism",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Michał Malewicz: Neumorphism in user interfaces",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://uxplanet.org/why-neumorphism-is-different-from-the-other-design-trends-efe40571b6b"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Sanil: Why Neumorphism is different from the other design trends?",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.toptal.com/designers/ui/neumorphic-ui-design"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Kayode Osinusi: The New Trend in UI Design: An Overview of Neumorphism",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://css-tricks.com/neumorphism-and-css/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "CSS Tricks: Neumorphism and CSS",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Tools",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://neumorphism.io/#e0e0e0"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Neumorph Shadow Generator",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://hype4.academy/tools/neumorphism-generator"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Neomophism CSS Generator",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Websites using this trend",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://patrickmason.studio/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Patrick Mason Studio",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://thehost.is/DreamingBeyondAI"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "thehost.is",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Related terms in this glossary",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "2Ib0yeXE5iLTu4gX6TDg0e",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Skeumorphism",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "2ZTXtv3YeWVkbsEYoZWnez",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Flat Design",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "4TzAZFehkMPRfclxZU7jhz",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Accessability",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

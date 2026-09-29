@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2tzx5ejkyDOCsvWT5DKzkC",
+    "type": "Asset",
+    "createdAt": "2023-03-20T15:21:37.613Z",
+    "updatedAt": "2023-03-20T15:38:15.484Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 9,
+    "revision": 2,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "font-smoothing",
+    "description": "font-smoothing",
+    "file": {
+      "url": "/media/font-smoothing-94d0df9f0edc.svg",
+      "details": {
+        "size": 660,
+        "image": {
+          "width": 318,
+          "height": 67
+        }
+      },
+      "fileName": "font-smoothing.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

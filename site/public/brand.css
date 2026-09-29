@@ -1,0 +1,165 @@
+:root {
+  --webloom-ink: #111111;
+  --webloom-paper: #f4f0e6;
+  --webloom-cobalt: #2457ff;
+}
+
+html,
+body {
+  min-width: 0;
+  overflow-x: clip;
+  background: var(--webloom-paper);
+  color: var(--webloom-ink);
+}
+
+*:focus-visible {
+  outline: 2px solid var(--webloom-cobalt);
+  outline-offset: 3px;
+}
+
+.webloom-scroll-thread {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 10000;
+  width: 100%;
+  height: 3px;
+  pointer-events: none;
+  background: var(--webloom-cobalt);
+  transform: scaleX(0);
+  transform-origin: left center;
+  will-change: transform;
+}
+
+html.lenis,
+html.lenis body {
+  scroll-behavior: auto !important;
+}
+
+html.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+[data-webloom-motion="reveal"] {
+  will-change: transform, opacity;
+}
+
+[data-webloom-parallax] {
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .webloom-scroll-thread {
+    display: none;
+  }
+
+  [data-webloom-motion],
+  [data-webloom-parallax] {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+    will-change: auto !important;
+  }
+}
+
+@media (min-width: 1201px) {
+  .top-gradient-yellow.svelte-1ogbki9.svelte-1ogbki9 {
+    right: 0;
+  }
+
+  img.svelte-1vv5jwi {
+    width: 470.5px;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 1200px) {
+  img.svelte-1vv5jwi {
+    width: min(470.5px, calc(100% - 5em));
+  }
+}
+
+@media (min-width: 501px) and (max-width: 800px) {
+  .search.svelte-di5htf input.svelte-di5htf {
+    box-sizing: border-box;
+    min-width: 0;
+    width: 100%;
+  }
+
+  img.svelte-1vv5jwi {
+    width: min(413px, calc(100% - 2em));
+  }
+}
+
+@media (max-width: 500px) {
+  .content.svelte-87yzwv.svelte-87yzwv {
+    width: 100%;
+  }
+
+  img.svelte-1vv5jwi {
+    width: calc(100% - 2em);
+  }
+
+  .block-container.svelte-87yzwv.svelte-87yzwv {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 1.25rem 0;
+    padding-inline: 1rem;
+    grid-template-columns: minmax(0, 1fr);
+    justify-content: stretch;
+  }
+
+  .block.svelte-87yzwv.svelte-87yzwv,
+  .block.svelte-87yzwv a.svelte-87yzwv,
+  .meta-info.svelte-87yzwv.svelte-87yzwv {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .arena-info.svelte-87yzwv.svelte-87yzwv {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+  }
+
+  .meta-info.svelte-87yzwv a.svelte-87yzwv {
+    min-width: 0;
+    width: auto;
+  }
+
+  .container.svelte-r4zdmx {
+    box-sizing: border-box;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 1rem 1rem 8em;
+  }
+
+  .headline.svelte-1bk6dkh.svelte-1bk6dkh {
+    box-sizing: border-box;
+    width: 90vw;
+    overflow-wrap: anywhere;
+  }
+
+  .register.svelte-1h7amt.svelte-1h7amt,
+  .card.svelte-1h7amt.svelte-1h7amt {
+    width: 100%;
+  }
+}
+
+@media (max-width: 360px) {
+  .register-link {
+    font-size: 0.9em;
+  }
+
+  .link-box.svelte-1h7amt.svelte-1h7amt {
+    padding-inline: 0.6em !important;
+  }
+
+  .link-box-1.svelte-1h7amt.svelte-1h7amt {
+    margin-left: calc(54px + 1.5em) !important;
+  }
+
+  .link-box-2.svelte-1h7amt.svelte-1h7amt {
+    margin-left: calc(131px + 2em) !important;
+  }
+}

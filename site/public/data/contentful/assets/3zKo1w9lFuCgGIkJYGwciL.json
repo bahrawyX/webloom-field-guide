@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "3zKo1w9lFuCgGIkJYGwciL",
+    "type": "Asset",
+    "createdAt": "2023-02-03T14:36:46.840Z",
+    "updatedAt": "2023-03-20T10:19:30.196Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 26,
+    "revision": 8,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "favicon",
+    "description": "An image of an favicon",
+    "file": {
+      "url": "/media/favicon-1356316814d6.svg",
+      "details": {
+        "size": 18123,
+        "image": {
+          "width": 1187,
+          "height": 322
+        }
+      },
+      "fileName": "favicon.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

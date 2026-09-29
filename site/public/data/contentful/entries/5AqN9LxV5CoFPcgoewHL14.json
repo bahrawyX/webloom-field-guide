@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "5AqN9LxV5CoFPcgoewHL14",
+    "type": "Entry",
+    "createdAt": "2023-03-24T13:26:12.762Z",
+    "updatedAt": "2023-03-24T13:26:12.762Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 5,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Michael Erlhoff und Timothy Marshall: Wörterbuch Design. Begriffliche Perspektiven des Design, Basel 2013, p. 418",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Michael Erlhoff und Timothy Marshall: Wörterbuch Design. Begriffliche Perspektiven des Design, Basel 2013, p. 418",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

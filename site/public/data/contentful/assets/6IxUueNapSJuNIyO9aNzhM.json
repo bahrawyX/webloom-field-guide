@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "6IxUueNapSJuNIyO9aNzhM",
+    "type": "Asset",
+    "createdAt": "2023-03-21T17:17:21.293Z",
+    "updatedAt": "2023-03-22T12:32:14.363Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 25,
+    "revision": 6,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "flex-wrap",
+    "description": "flex-wrap",
+    "file": {
+      "url": "/media/flex-wrap-cc09419406d2.svg",
+      "details": {
+        "size": 1260,
+        "image": {
+          "width": 235,
+          "height": 46
+        }
+      },
+      "fileName": "flex-wrap.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

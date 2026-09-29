@@ -1,0 +1,20 @@
+WEBLOOM — SOURCE ATTRIBUTION AND PUBLICATION NOTES
+
+Webloom is a distinct identity study built from a frozen offline replica of
+softglossary.space, a 2022 HAW Hamburg master's thesis project by Gina Bartzok
+and Isabell Henninger. This attribution records provenance and does not imply
+affiliation, endorsement, ownership transfer, or a license grant.
+
+The Inspiration collection was frozen from the public Are.na channel
+“.softInspiration” (channel 2063847):
+https://www.are.na/soft-glossary/softinspiration
+
+Screenshots in that collection remain paired with the external destinations
+recorded by the source collection. Their inclusion does not imply that Webloom
+owns or is affiliated with those projects.
+
+The local build also retains the source publication's educational glossary
+snapshot and bundled educational typefaces. Rights and license status for the
+replica, third-party screenshots, glossary content, and fonts have not been
+independently verified. Complete that review before treating this preview as a
+finished production publication.

@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "2xIC4FRD9GrZqI5uMRBTnK",
+    "type": "Entry",
+    "createdAt": "2023-03-23T10:08:26.343Z",
+    "updatedAt": "2023-03-23T16:57:02.888Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 8,
+    "revision": 2,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Sybille Krämer: Figuration, Anschauung, Erkenntnis. Grundlinien einer Diagrammatologie, Berlin 2016, p.13",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Sybille Krämer: Figuration, Anschauung, Erkenntnis. Grundlinien einer Diagrammatologie, Berlin 2016, p.13",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

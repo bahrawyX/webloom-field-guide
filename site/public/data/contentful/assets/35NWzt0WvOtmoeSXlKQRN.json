@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "35NWzt0WvOtmoeSXlKQRN",
+    "type": "Asset",
+    "createdAt": "2023-03-21T14:47:26.218Z",
+    "updatedAt": "2023-03-22T12:31:37.703Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 25,
+    "revision": 6,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "flexbox",
+    "description": "flexbox",
+    "file": {
+      "url": "/media/flexbox-3f7d87ae694f.svg",
+      "details": {
+        "size": 10888,
+        "image": {
+          "width": 235,
+          "height": 38
+        }
+      },
+      "fileName": "flexbox.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

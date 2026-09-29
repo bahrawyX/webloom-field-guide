@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="250" viewBox="0 0 235 250" role="img" aria-label="Align multiple flex lines">
+<title>Align multiple flex lines</title>
+<rect width="235" height="250" rx="4" fill="#F4F0E6"/>
+<g fill="none" stroke="#111111" stroke-width="2"><rect x="15" y="15" width="205" height="220"/><path d="M24 125H211" stroke="#2457FF" stroke-dasharray="5 5"/><rect x="34" y="68" width="47" height="35" fill="#111111"/><rect x="94" y="68" width="47" height="35" fill="#2457FF" stroke="none"/><rect x="154" y="68" width="47" height="35" fill="#111111"/><rect x="34" y="147" width="47" height="35" fill="#2457FF" stroke="none"/><rect x="94" y="147" width="47" height="35" fill="#111111"/><rect x="154" y="147" width="47" height="35" fill="#2457FF" stroke="none"/></g>
+</svg>

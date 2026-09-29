@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "tags": [
+      {
+        "sys": {
+          "type": "Link",
+          "linkType": "Tag",
+          "id": "concept"
+        }
+      }
+    ],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "7GUBum8whRrLTaVAKoQAGr",
+    "type": "Entry",
+    "createdAt": "2023-02-08T15:41:10.207Z",
+    "updatedAt": "2023-04-10T15:32:44.720Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 180,
+    "revision": 35,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "glossaryEntry"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Digital Literature",
+    "textContent": {
+      "data": {},
+      "content": [
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "Description",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "heading-3"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "The term digital literature refers to texts that are produced through and with digital media. This means that the writing process is conceptually understood in digital terms. The Internet, social networks or algorithms, for example, can serve as tools for generating texts. This clearly distinguishes digital literature from digitised literature, such as the idea of the eBook format or hypertext literature, a small movement in the early 2000s. The term was mainly coined by Hannes Bajohr, other representatives of the movement are Gregor Weichbrodt, Jörg Piringer, Kenneth Goldsmith or Andreas Bülhoff. Christiane Frohmann, Stephan Porombka and Annette Gilbert also participate in the discourse on digital literature.",
+              "nodeType": "text"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "1A1gaqO3FfFH5cvRN1D9UX",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "superscript"
+                    }
+                  ],
+                  "value": "[1]",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "entry-hyperlink"
+            },
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "»Digital literature is different from digitised literature. One can translate between the digital and the analogue, but every translation is loss and enrichment, interpretation and falsification. Just as every medium creates its own reality, the digital also creates its reality. The digital has a different reality than the analogue. Digital literature is something in which the change in the perception of the world through the digital finds representation at all. For where the digital produces other realities, it also produces other experiences. But because the text in the digital cannot only provide descriptions, but is also action, these experiences can express themselves not only descriptively, but also performatively. A text in which characters use computers is not a digital text. A digitally produced text that reflects its conditions of production is.« ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {
+                    "target": {
+                      "sys": {
+                        "id": "4MJGAZODjhuunx1P3EihqA",
+                        "type": "Link",
+                        "linkType": "Entry"
+                      }
+                    }
+                  },
+                  "content": [
+                    {
+                      "data": {},
+                      "marks": [
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "value": "[2]",
+                      "nodeType": "text"
+                    }
+                  ],
+                  "nodeType": "entry-hyperlink"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "blockquote"
+        },
+        {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "marks": [],
+              "value": "",
+              "nodeType": "text"
+            }
+          ],
+          "nodeType": "paragraph"
+        }
+      ],
+      "nodeType": "document"
+    },
+    "codeComment": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Texts on this topic",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.etk-muenchen.de/search/Details.aspx?name=Heinz+Ludwig+Arnold&=&ISBN=9783967075489"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Text + Kritik – Digitale Literatur Ⅱ",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://frohmannverlag.de/products/code-und-konzept"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Hannes Bajohr: Code und Konzept",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.sternberg-press.com/product/publishing-as-artistic-practice/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Annette Gilbert: Publishing as artistic practice",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Projects",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://andshymagazine.com/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "&shy; Magazin",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://tdingsun.github.io/reading-machines/"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Reading Machines",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "hyperlink",
+                      "data": {
+                        "uri": "https://www.suhrkamp.de/buch/hannes-bajohr-halbzeug-t-9783518073582"
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Hannes Bajohr: Halbzeug",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "heading-3",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Related terms in this glossary",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "unordered-list",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "list-item",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "paragraph",
+                  "data": {},
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    },
+                    {
+                      "nodeType": "entry-hyperlink",
+                      "data": {
+                        "target": {
+                          "sys": {
+                            "id": "7MVPubl8wjr5uNSSMZ4M6k",
+                            "type": "Link",
+                            "linkType": "Entry"
+                          }
+                        }
+                      },
+                      "content": [
+                        {
+                          "nodeType": "text",
+                          "value": "Digital Reading",
+                          "marks": [],
+                          "data": {}
+                        }
+                      ]
+                    },
+                    {
+                      "nodeType": "text",
+                      "value": "",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

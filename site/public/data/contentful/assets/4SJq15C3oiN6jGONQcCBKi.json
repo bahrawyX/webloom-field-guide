@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "4SJq15C3oiN6jGONQcCBKi",
+    "type": "Asset",
+    "createdAt": "2023-03-21T16:52:10.708Z",
+    "updatedAt": "2023-03-22T12:31:58.645Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 16,
+    "revision": 4,
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "flex-direction",
+    "description": "flex-direction",
+    "file": {
+      "url": "/media/flex-direction-a1b084894338.svg",
+      "details": {
+        "size": 12698,
+        "image": {
+          "width": 235,
+          "height": 55
+        }
+      },
+      "fileName": "flex-direction.svg",
+      "contentType": "image/svg+xml"
+    }
+  }
+}

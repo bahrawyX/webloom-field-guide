@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="100.05" viewBox="0 0 235 100.05" role="img" aria-label="CSS gap between flex items">
+<title>CSS gap between flex items</title>
+<rect width="235" height="100.05" rx="4" fill="#F4F0E6"/>
+<g fill="none" stroke="#111111" stroke-width="2"><rect x="16" y="18" width="203" height="64"/><rect x="30" y="31" width="43" height="38" fill="#111111"/><rect x="96" y="31" width="43" height="38" fill="#2457FF" stroke="none"/><rect x="162" y="31" width="43" height="38" fill="#111111"/><path d="M76 75V86M92 75V86M142 75V86M158 75V86" stroke="#2457FF"/></g>
+</svg>

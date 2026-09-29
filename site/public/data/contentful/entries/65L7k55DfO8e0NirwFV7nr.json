@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "whoj2nydqx2d"
+      }
+    },
+    "id": "65L7k55DfO8e0NirwFV7nr",
+    "type": "Entry",
+    "createdAt": "2023-02-17T15:48:02.907Z",
+    "updatedAt": "2023-02-17T15:48:02.907Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 4,
+    "revision": 1,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "reference"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Marcus Burkhardt: Digitale Datenbanken. Eine Medientheorie im Zeitalter von Big Data, Bielefeld 2015, p.114",
+    "ref": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Marcus Burkhardt: Digitale Datenbanken. Eine Medientheorie im Zeitalter von Big Data, Bielefeld 2015, p.114",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
